@@ -86,7 +86,7 @@ params:
         cover:
             enabled: true
         content:
-            enabled: true
+            enabled: false
 
 # For more icons: https://tablericons.com/
 menu:
