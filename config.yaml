@@ -13,6 +13,8 @@ permalinks:
     post: /:slug/
     page: /:slug/
 
+timeout: 60s
+
 params:
     mainSections:
       - post
