@@ -1,0 +1,47 @@
+<style>
+img[alt=crypto] { width: 13px; }
+img[alt=icon] { width: 15px; }
+
+/// Overwrite CSS variable
+::-moz-selection { /* Code for Firefox */
+    color: white;
+    background: #57e389;
+}
+
+::selection {
+    color: white;
+    background: #57e389;
+}
+
+:root {
+    --article-font-family: "Ubuntu", sans-serif;
+    --body-background: #f2f4e2;
+    --accent-color: #2b7251;
+    --accent-color-darker: #295b44;
+    --accent-color-text: #fff;
+    --body-text-color: #7c7d6f;
+
+    --card-background: #fefffa;
+    --card-border-radius: 10px;
+    --card-text-color-main: #23231f;
+    --card-text-color-secondary: #727368;
+    --card-text-color-tertiary: #b9baa8;
+    --card-separator-color: rgba(218, 218, 218, 0.5);
+    --card-padding: 20px;
+
+    --base-font-family: "Cantarell", sans-serif;
+    --code-font-family: "Source Code Pro", monospace;
+}
+</style>
+
+<script>
+		(function () {
+		    const customFont = document.createElement('link');
+		    customFont.href = "https://fonts.googleapis.com/css2?family=Cantarell&family=Oxygen:wght@300&family=Source+Code+Pro&family=Ubuntu:wght@300&display=swap";
+		
+		    customFont.type = "text/css";
+		    customFont.rel = "stylesheet";
+		
+		    document.head.appendChild(customFont);
+		    }());
+</script>

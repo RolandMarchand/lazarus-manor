@@ -1,0 +1,148 @@
+baseURL: "https://moowool.info/"
+languageCode: en-us
+theme: stack
+paginate: 5
+title: "Moowool's Website"
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl, it
+DefaultContentLanguage: en
+enableEmoji: true
+
+permalinks:
+    post: /:slug/
+    page: /:slug/
+
+params:
+    mainSections:
+      - post
+    featuredImageField: image
+    rssFullContent: true
+    favicon:
+
+    footer:
+        since:
+        customText:
+
+    dateFormat:
+      published: 2006-01-02
+      lastUpdated: 2006-01-02 15:04 MST
+
+    sidebar:
+        emoji:
+        subtitle:
+        avatar:
+            enabled: true
+            local: false
+            src: /pfp.webp
+
+    article:
+        math: false
+        toc: true
+        readingTime: true
+        license:
+            enabled: false
+            default: Licensed under CC BY 4.0
+
+    widgets:
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            # - type: categories
+            #   params:
+            #       limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
+        page:
+            - type: toc
+
+    opengraph:
+        twitter:
+            # Your Twitter username
+            site:
+
+            # Available values: summary, summary_large_image
+            card: summary_large_image
+
+    defaultImage:
+        opengraph:
+            enabled: false
+            local: false
+            src:
+
+    colorScheme:
+        # Display toggle
+        toggle: true
+
+        # Available values: auto, light, dark
+        default: auto
+
+    imageProcessing:
+        cover:
+            enabled: true
+        content:
+            enabled: true
+
+# For more icons: https://tablericons.com/
+menu:
+    main:
+      - identifier: home
+        name: Home
+        url: /
+        weight: 1
+        params:
+            icon: home
+            newtab: false
+      - identifier: github
+        name: Github
+        url: https://github.com/RolandMarchand
+        weight: 3
+        params:
+            icon: brand-github
+            newtab: true
+          
+    # social:
+    #     - identifier: github
+    #       name: GitHub
+    #       url: https://github.com/aaronfranke
+    #       params:
+    #           icon: brand-github
+
+    #     - identifier: twitter
+    #       name: Twitter
+    #       url: https://twitter.com/aaronfranke7
+    #       params:
+    #           icon: brand-twitter
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+        - name: categories
+          weight: 200
+
+markup:
+    goldmark:
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: false
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4
+
