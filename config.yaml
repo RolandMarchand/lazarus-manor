@@ -100,7 +100,7 @@ menu:
             newtab: false
       - identifier: github
         name: Github
-        url: https://github.com/RolandMarchand
+        url: https://github.com/RolandMarchand/moowool-blog
         weight: 3
         params:
             icon: brand-github
