@@ -19,6 +19,7 @@ There is a kernel of truth to this image. Unlike most high level, modern languag
 
 Even while knowing the ins-and-outs of the language, it may feel limiting to lack features like certain libraries of data structures and algorithms, proper string objects or, well, objects. It shocks people to learn that operating systems, media players, browsers, text editors and graphics software can be written in C. They don't understand how such a primitive and unsafe language can pull this off.
 
+<!-- explain why someone would get comfortable with the language, and why the abscence of high level logic wouldn't bother them -->
 However, those impressions melt away soon after getting comfortable with the language, which surprisingly doesn't take much time. Memory gets demystified as practically a huge array. Data structures like hashmaps and resizable arrays are learned and then written in only a few hundred lines. And libraries like [Boehm garbage collector](https://www.hboehm.info/gc/index.html), [OpenGL](https://www.opengl.org/), or [SQLite](https://www.sqlite.org/index.html) are used.
 
 Evidently, there is a reason why we developed and moved onto different languages. Programming styles evolve, average project scopes increase, and new features are not considered mandatory. Even though C cannot, and should not fulfill all use cases, it still has its place and its users in the modern era. These features I'm proposing are designed with this in mind.
