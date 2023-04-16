@@ -111,10 +111,12 @@ documents. Here are some suggestions ordered by relevancy:
 	A repository of markup files is sufficient documentation in most
     cases. They can be parsed to generate organized and easy to read
     documents or shared around as plain text. They can also be
-    integrated with services like databases or cloud. Here is a list of markup languages, starting from my preferred:
+    integrated with databases like MongoDB or cloud services like Read
+    the Docs or GitBooks. Here is a list of markup languages, ordered by
+    preference:
 	
-	* [Markdown](https://www.markdownguide.org/)
 	* [Asciidoc](https://asciidoc.org/)
+	* [Markdown](https://www.markdownguide.org/)
 	* [ReStructuredText](https://www.writethedocs.org/guide/writing/reStructuredText/)
 	
 	Fun fact, this article is written in Mardown using [Hugo](https://gohugo.io/).
@@ -128,19 +130,20 @@ documents. Here are some suggestions ordered by relevancy:
 
 * Other
 
-	* [LaTeX](https://www.latex-project.org/), the hardest to install
+	* [LaTeX](https://www.latex-project.org/), difficult to install
     and write, but produces the most professional-looking
-    documents.Luke Smith made a [great
+    documents. Luke Smith made a [great
     video](https://www.youtube.com/watch?v=w8EKH_fjmXA&pp=ygUQZ3JvZmYgbHVrZSBzbWl0aA%3D%3D)
     about it.
-	* [Man Pages](https://www.gnu.org/software/groff/), If you're
+	* [Man pages](https://www.gnu.org/software/groff/), If you're
    writing a Linux terminal application, this is the go to. Otherwise,
    this is a lean and minimalist option. Man pages are written using
    Groff.
    * [Doxygen](https://www.doxygen.nl/), generate documentation from
-    code comments. Please, don't use it. It makes the code unreadable,
-    and the documentation that's generated isn't very good. If you
-    don't believe me, try to learn how to use [LLVM's C
+    code comments. I am adding it as a warning sign. Please, don't use
+    it. It makes the code unreadable, and the documentation that's
+    generated isn't very good. If you don't believe me, try to learn
+    how to use [LLVM's C
     API](https://llvm.org/doxygen/group__LLVMC.html).
 
 ### Contents
@@ -172,7 +175,9 @@ project. Not all elements listed below will be applicable.
 
 ## Testing
 
-## Depedencies
+## Dependencies
+
+I would advise
 
 ## Choosing a License
 
@@ -194,7 +199,7 @@ but I will guide you towards 3 licenses that I favor.
 1. [ISC License](https://opensource.org/license/isc-license-txt/), it
    basically says "do whatever you want, I am not responsible." This
    is the most permissive license on the list, and perfect for people
-   who do not want to impose *any* restrictions on anyone having a
+   who do not want to impose *any* restrictions on anyone with a
    copy of the project. Note that this license has [public domain
    equivalence](https://en.wikipedia.org/wiki/Public-domain-equivalent_license).
 
@@ -205,7 +210,7 @@ but I will guide you towards 3 licenses that I favor.
 3. [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html), a
    [copyleft](https://en.wikipedia.org/wiki/Copyleft) license that
    enforces derived works to be also licensed as GPL. This is a
-   popular restrictive license for hardcore freedom enjoyers. It is a
-   huge, complicated license with a lot of requirements. You can learn
+   popular restrictive license among hardcore freedom enjoyers. It is a
+   complicated license with a lot of requirements. You can learn
    more about the GPL
    [here](https://www.gnu.org/licenses/quick-guide-gplv3.html).
