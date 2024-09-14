@@ -1,146 +1,121 @@
 ---
 author: Lazarus Overlook
 title: How to Play Doom
-date: 2021-09-26
+date: 2024-09-14
 categories:
     - Video Games
 tags:
     - Doom
     - Video Games
-    - Modding
 ---
-## Why Can't We Just Play Doom
-Playing Doom should be straight forward, you just get the game and you play it, right ? Well, it's a bit more complicated than that…
 
-Doom is old, like very old. It was made in the 90's for DOS, so even if you can somehow find DOOM.EXE, it won't even execute on a modern Windows 10 machine. Even if you could execute it with DosBOX, you probably wouldn't want to. Except if you're looking for amazing features, such as:
+This is a guide on how to play Doom I and II on modern software, including all the mods.
+
+![Cover of Doom 1](featured.jpg)
+
+## Issues With DOSBox
+
+The original Doom and its sequel, Doom II, came out on DOS in 1993 and 1994 respectively. You are likely not using DOS anymore, in which case you are unable to launch the games on modern Windows, Mac or Linux.
+
+To play old DOS games, we have [DOSBox](https://www.dosbox.com/). While Doom might be playable on DOSBox, the experience comes with the following disadvantages:
 
 * Locked 4:3 320x200 resolution
 * Hard coded 35 FPS
-* Engine bugs
+* [Engine bugs](https://doomwiki.org/wiki/Engine_bug)
 * Funky mouse support
-* Terrible music player
-* Limited modding
+* Bad MIDI music player
+* Limited modding support
 
-So, are we doomed ? Don't worry, as we have the power of [Open Source](https://github.com/id-Software/DOOM)!
-
-In 1999, the source code of Doom for Linux was released by ID software (the DOS build was never released because of [licensing issues](https://doomwiki.org/wiki/Doom_source_code)). So the Doom community got hard at work for decades to create great ways to play this wonderful game. With their efforts, they managed to uncap hard coded limits, designed lots of high quality maps, scripting languages and mapping tools, establish a vibrant multiplayer scene, integrate OpenGL and Vulkan, make the game [run inside of a camera](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F839%2F1462755712852568.jpg&f=1&nofb=1), fix a large amount of bugs and much, much more.
-
-All of that for free and on every platform! You only need a WAD file and a source port.
+Considering these major downsides, there are better, more modern ways of playing Doom. Since ID Software [open sourced the Doom engine](https://github.com/id-Software/DOOM), the community has been hard at work developing ports to break Doom's limitations, patch its bugs, support multiple platforms, and much more.
 
 ## WADs
+
+By themselves, engines are not capable of much. They require game files (called IWADs) and optional mods (called PWADs). Below, we dive deeper into what they are and where to find them.
+
 ### IWADs
-Those are the main files, which you only need one of. It contains all the important data like maps, sprites, sounds and music, among others.
 
-[There are actually numerous IWADs](https://doomwiki.org/wiki/IWAD), but I recommend getting DOOM2.WAD, since it is a great game by itself and is the most supported in terms of modding.
+While the Doom engine's source code is open source, the assets are still under copyright and are owned by ID Software.[^1] Source ports are legally prohibited to distribute the game files, so you have to provide them yourself.
 
-You can easily find IWADS online, but that would be consider piracy. The developers have [publicly stated](https://twitter.com/ID_AA_Carmack/status/456974084857802752?s=20) that they don't care much for that, but if piracy isn't your cup of tea, you can legally buy the game off [Steam](https://store.steampowered.com/app/2300/DOOM_II/) or [GOG](https://www.gog.com/game/doom_ii_final_doom).
+You can legally purchase the Doom game files from [Steam](https://store.steampowered.com/app/2280/DOOM__DOOM_II/) or [GOG](https://www.gog.com/en/game/doom_doom_ii). I recommend the latter, since GOG does not lock its products behind DRM.
 
-I personally recommend the latter, as it is [DRM-Free](https://www.gog.com/forum/general/what_does_drmfree_mean).
+Alternatively, pirating Doom I and II is very easy. While this blog does not promote piracy, the creators of Doom have admitted not being against it. The decision is ultimately yours.
 
-But if you're not willing to pay, nor to pirate, there is the community-made IWAD called [Freedoom](https://freedoom.github.io/).
+<div class="flex justify-center">
+{{< twitter user="ID_AA_Carmack" id="456974084857802752" >}}
+</div>
+
+If you are not willing to purchase or pirate the original game, [Freedoom](https://freedoom.github.io/) is a good option. Freedoom is a compatible, free/libre replacement for Doom I and II. Any mod requiring the original game will work with these community-made assets. Although, they look different from the original game.[^2]
 
 ### PWADs
 
-Those are contains modifications for Doom, might they be new maps, enemies, musics or others. Some could be classified as extensions, others as quality of life improvements, or even as brand new games altogether.
+Also called mods, they might not be necessary to enjoy the original Doom, but can greatly improve the experience with new maps, weapons, monsters, textures, music, and much more. You can start looking for quality mods at [doomwiki.org](https://doomwiki.org/wiki/Best_Doom_mods).
 
-You can load as many PWADs you want, considering compatibility.
-
-What you must keep in mind is the type of mod, so for what engine it was made for. These types are the most important:
+Keep in mind that not all mods are compatible with all ports. Some are designed for the original game while others utilize advanced features of modern engines.
 
 * **Vanilla**
 
-	These ones are made for the original doom and have the same limitations as the original engine. They can be played by any doom engine, old or new. They do not have new or advanced features.
+	Vanilla mods ending in `.WAD` are made for the original Doom and its limitations. Every engine can run these.
 
 * **Limit-removing**
 
-	Very similar to vanilla, except when it comes to [engine limits](https://doomwiki.org/wiki/Static_limits), such as being limited to 6 MB of ram, 128 rendered sprites at a time or 16 active switches at a time.
+	Similar to vanilla, but without [engine limitations](https://doomwiki.org/wiki/Static_limits), such as maps being limited to 6 MB of RAM, or 128 rendered sprites or walls at once.
 
 * **Boom**
 
-	Boom was a community-made engine built to remove limits and add a bunch of new features like transparent walls, conveyor belts or friction on certain surfaces like ice or mud.
+	Boom-compatible mods ending in `.WAD` are designed for the Boom engine and its successors. Those engines are designed to remove engine limits, fix bugs, and implement new features.
 
-	These mods still feel very much like Doom, but they must be played on a Boom-Compatible engine.
+* **ZDoom/GZDoom**
 
-* **ZDoom**
+	Mods ending in `.PK3` are designed for the discontinued engine [ZDoom](https://zdoom.org/index), or its modern successor [GZDoom](https://zdoom.org/index). They are the most advanced engines with the [greatest availability of modern features](https://doomwiki.org/wiki/GZDoom#Features).
+	
+	Note that mods designed exclusively for GZDoom are not backwards compatible with ZDoom, but ZDoom mods are forward compatible with GZDoom.
 
-	These mods are made for the ZDoom engine, which provides an [insane amount of features](https://doomwiki.org/wiki/ZDoom#Features). So these mods tend to be the most impressive, like [Brutal Doom](https://www.moddb.com/mods/brutal-doom), but can also seem out of place with how different they are from the original Doom.
+* **DeHackEd**
 
-	Only ZDoom-based engines can play those mods.
+	Files ending in `.DEH` represent patches to the original executable. These mods generally do not add content, but rather change values like hit points, sound, frame sequences, text strings, or others.
+	
+	They are supported by most engines.
 
-	The files often end in .PK3.
-
-* **Dehacked**
-
-	These mods are special, they're not made for a specific engine nor are they really used to add content. They are made by a special editor to change how the game fundamentally works. They can change hit points, sounds, animation sequences and others.
-
-	Almost all engines support them in one way or another.
-
-	The files end in .DEH.
-
-There are also other types of mods like [Marine's Best Friend](https://doomwiki.org/wiki/MBF), but those are rare and not as important right now.
-
-Finding WADs can be tricky, but [this article](https://doomwiki.org/wiki/Best_Doom_mods) gets you covered.
+> **Note:** This is not an exhaustive list. For example, there are mods designed for specific source ports like [Marine's Best Friend](https://doomwiki.org/wiki/MBF), but the ones mentioned above cover the vast majority of mods out there.
 
 ## Ports
-### [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom)
-This is the true Doom experience, as vanilla as it can get, with all the limitations mentionned before. [Its philosophy](https://github.com/chocolate-doom/chocolate-doom/blob/master/PHILOSOPHY.md) is to be as similar as possible to the original. It even has the same bugs.
 
-It is limited as far as modding goes, obviously only accepting vanilla-compatible mods.
+Now, let's explore my top picks of engines to cover all mod types listed above and to present a wide variety of different ways to experience Doom.
 
-Even if you want a vanilla experience, I would only recommend to play this port for historical purposes, or to read its source code to learn how to program.
+### Chocolate Doom
 
-If you want a pleasurable, original experience, I recommend its friendly fork, Crispy Doom.
+[Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) aims to emulate an experience as close to the original as possible. Playing Chocolate Doom is comparable to playing on DOSBox while being easier to configure and to use.
 
-### [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom)
-Chocolate Doom, but *better*.
+It only supports vanilla WADs.
 
-Crispy Doom is my port of choice, it's simple, it works, and it's light.
+While the experience is faithful, all the downsides mentioned earlier still apply. For a classic and comfortable experience, I recommend the next source port.
 
-Crispy Doom is based on Chocolate Doom and improves upon it by adding quality of life features such as uncapped frame rate, widescreen support, removed limits and many more. But it does not add so many features as to make the game unrecognizable.
+### Crispy Doom
+
+[Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom) is a friendly fork of Chocolate Doom that provides a higher display resolution, removes the static limits of the Doom engine and offers further optional visual, tactical and physical enhancements while remaining compatible with the original. 
 
 It still is limited in terms of modding, as it can only play vanilla and limit-removing WADs.
 
+### Doom Retro
 
+[Doom Retro](https://www.doomretro.com/) is the latest descendent of [Boom](https://doomwiki.org/wiki/Boom), a historically significant port. Boom removed important bugs and limitations, provided engine optimizations, and implemented [new features](https://doomwiki.org/wiki/Boom#Features) now found in most modern source ports. Yet, Boom and Doom Retro maintain a traditional experience.
 
-### [PRBoom+](http://prboom-plus.sourceforge.net/)
-This is an *advanced* port with true high resolution, insane opitmization and an uncapped framerate. It has OpenGL support and is the ultimate demo recording port. It has a myriad of features and is optimized for speed.
+It supports most WADs, including vanilla, limit-removing, and boom-compatible, but does not support (G)ZDoom's PK3s.
 
-Even with all of those goodies, it still provides an authentic Doom experience, and can play almost every single mod out there, aside from ZDoom mods discussed further down.
+### GZDoom
 
-The list of issues is short, but it encompasses a gamma that's way too high by default, and the requirement to set its port compatibility manually through [complevels](https://www.doomworld.com/forum/topic/54491-what-is-complevel/).
+[GZDoom](https://www.zdoom.org/downloads) is a modern source port that offers extensive enhancements over the original Doom engine. It supports advanced graphical features, improved modding capabilities, and a more customizable experience.
 
-### [GZDoom](https://www.zdoom.org/downloads)
-This is the most popular, powerful and featureful port out there. Based on ZDoom and often considered as the go-to source port, it is capable of playing almost every single mod.
+Mods designed for GZDoom tend to be the most impressive since they have access to the engine's scripting languages (ZScript and Decorate), post-processing, 3D models, dynamic lights, and much more. For a greatly impressive mod, consider [Comatose](https://doomwiki.org/wiki/Comatose).
 
-GZDoom is packed with features such as:
+GZDoom allows for the use of `.PK3` files and every mod type mentioned before. Its modern features, ease of use, and customizability make it a top choice for many players.
 
-* Decorate and Zscript.
-  They enable GZDoom to transcend Doom, like [Comatose](https://doomwiki.org/wiki/Comatose).
+Despite its current status as the go-to source port, using it has some downsides. The most notable one, in my opinion, being the overwhelming customization. A common criticism of the port is its poor default settings which include unusual controls and blurry sprites. The settings menu to change those can feel intimidating.
 
-* OpenGL, lighting, true color, slopes, portals, high res and model support.
+### Honorable Mention: Zandronum
 
-* An incredible amount of configurable options.
+[Zandronum](https://zandronum.com/) is a modern multiplayer port. It supports most features of (G)ZDoom, up to 64 players, and multiplayer game modes like capture the flag or deathmatch.
 
-* Can play every single Doom Engine games.
+[^1]: Doom was originally distributed as [shareware](https://en.wikipedia.org/wiki/Shareware), and thus the assets and levels of the first chapter of Doom I can be legally distributed. Although, most mods require either Doom II or the full version of Doom I.
 
-As amazing as GZDoom is, there are reasons why you shouldn't consider it as the end all be all for source ports:
-
-* It's badly optimized.
-  At least compared to the other source ports mentioned, it doesn't run  well on low-end machines, even with its lite version, [LZDoom](https://www.zdoom.org/wiki/LZDoom).
-
-* It has absolutely terrible default settings, and there are a lot of them.
-
-* It has little to no demo support.
-
-* There are some gameplay quirks that differ from the original Doom. e.g; Lost Souls count as enemies
-
-Though, with all of that said, there is a reason why this source port is loved by many, and I encourage you to try it out
-
-### [Zandronum](https://zandronum.com/)
-A multiplayer port!
-
-Zandronum is based on ZDoom (previous version of GZDoom), but focuses on multiplayer and is the go-to for that purpose.
-
-All the ports mentioned before can do multiplayer, but it is not recommended. Zandronum's the man.
-
-It can be used as a single-player source port, but that's equivalent to using a 3 years old version of GZDoom.
+[^2]: Fun fact, Doom was [allegedly](https://www.gamepressure.com/editorials/aliens-metallica-and-gabe-newell-7-things-you-didnt-know-about-do/doom-was-supposed-to-be-a-sandbox-sort-of/zc264) supposed to be released under the Alien franchise before ID Software decided to maintain creative freedom. Freedoom's art direction aims to recapture that.
