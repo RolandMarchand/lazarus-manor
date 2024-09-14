@@ -10,15 +10,13 @@
 {{ $featured = resources.GetRemote $url }}
 {{ end }}
 
-{{- if not $featured }}
- {{ with .Site.Params.defaultBackgroundImage }}
-  {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-   {{ $featured = resources.GetRemote . }}
-  {{ else }}
-   {{ $featured = resources.Get . }}
-  {{ end }}
+{{ with .Site.Params.defaultBackgroundImage }}
+ {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+  {{ $featured = resources.GetRemote . }}
+ {{ else }}
+  {{ $featured = resources.Get . }}
  {{ end }}
-{{ end -}}
+{{ end }}
 
 {{ $isParentList := eq (.Scratch.Get "scope") "list"  }}
 {{ $shouldBlur := $.Params.layoutBackgroundBlur | default (or 
