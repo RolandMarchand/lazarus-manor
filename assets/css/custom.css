@@ -2,7 +2,59 @@
     font-family: EB Garamond;
 }
 
-html {
+html, body {
     font-family: EB Garamond;
     font-size: 13pt;
+}
+
+/* Animations */
+@-webkit-keyframes bg-scrolling-reverse {
+    0% {
+	background-position: 0px;
+    }
+    100% {
+	background-position: 110px;
+    }
+}
+@-moz-keyframes bg-scrolling-reverse {
+    0% {
+	background-position: 0px;
+    }
+    100% {
+	background-position: 110px;
+    }
+}
+@-o-keyframes bg-scrolling-reverse {
+    0% {
+	background-position: 0px;
+    }
+    100% {
+	background-position: 110px;
+    }
+}
+@keyframes bg-scrolling-reverse {
+    0% {
+	background-position: 0px;
+    }
+    100% {
+	background-position: 110px;
+    }
+}
+
+.scrollable-background {
+    background-repeat: repeat;
+    background-clip: content-box;
+
+    -webkit-animation: bg-scrolling-reverse 3s infinite;
+    /* Safari 4+ */
+    -moz-animation: bg-scrolling-reverse 3s infinite;
+    /* Fx 5+ */
+    -o-animation: bg-scrolling-reverse 3s infinite;
+    /* Opera 12+ */
+    animation: bg-scrolling-reverse 3s infinite;
+    /* IE 10+ */
+    -webkit-animation-timing-function: linear;
+    -moz-animation-timing-function: linear;
+    -o-animation-timing-function: linear;
+    animation-timing-function: linear;
 }
