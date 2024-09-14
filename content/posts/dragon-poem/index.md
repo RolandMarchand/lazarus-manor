@@ -19,3 +19,6 @@ The scent of minty dew passes through us, yet your cherished prey can only taste
 As we gently bob through the darkness of night, you comfort I, your treasure, with primordial lullabies. The rich murmurs resonate through my body, playing all strings of my heart.
 
 O dragon, let me belong to you, admired creature, for all of eternity. If your wisdom can answer this, how can "bliss" mean anything else? What is there to want other than bliss?
+
+<sup>Thumbnail art by [LCSkeleton](https://www.furaffinity.net/user/lcskeleton/).</sup>
+
