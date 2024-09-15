@@ -1,6 +1,7 @@
 ---
 Author: Lazarus Overlook
 title: Blue Dragon
+summary: Poem. Thumbnail art by LCSkeleton.
 date: 2024-06-01
 toc: false
 categories:

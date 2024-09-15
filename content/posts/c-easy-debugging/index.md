@@ -1,7 +1,7 @@
 ---
 Author: Lazarus Overlook
 title: Easy C Debugging
-description: Learn the basics of the Gnu Debugger
+Summary: Learn the basics of the GNU Debugger.
 date: 2022-10-18
 image: thumbnail.webp
 categories:
