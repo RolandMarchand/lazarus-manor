@@ -1,7 +1,7 @@
 ---
 author: Lazarus Overlook
 title: How to Play Doom
-summary: A guide on source ports and WADs, what they are, why we need them, and where to get them.
+summary: Guide on source ports and WADs, what are they, why we need them, and where to get them.
 date: 2024-09-14
 categories:
     - Video Games
