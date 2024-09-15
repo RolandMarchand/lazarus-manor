@@ -1,11 +1,152 @@
-* Getting over aspergers
-I used to be so self conscious socially that I wouldn't leave my house for years at a time. I worked remote, had rice delivered to my doorstep once a month, and only went out at dark so that no one would see me. Although I got over that through a 4 steps plan:
-1) Learn about who you are by reflecting and asking questions like: what you like, what you don't like, what you need, why...
-2) Learn about how neurotypical people work, what they expect from all types of relationships, what do they need and want, and why
-3) Figure out where the dissonance comes from in your relationships, and be accept to change yourself in order to harmonize it
-4) Permanently drop the mask and self-improve through a positive cycle
-* Names are not important in fiction
-* 7 days to die review
-* Elden Ring review
-* Why being bald is awesome
-* Autoromanticism
+Certainly! Here are your blog post ideas rephrased:
+1. Overcoming Asperger's Syndrome: I used to be so socially self-conscious that I would stay indoors for years. I worked remotely, had rice delivered monthly, and only ventured out after dark to avoid being seen. I overcame this through a four-step plan:
+   1) Reflect on who you are by asking yourself questions about your likes, dislikes, needs, and reasons behind them.
+   2) Understand how neurotypical people function, what they expect in relationships, and what they need and want.
+   3) Identify the sources of dissonance in your relationships and be willing to change to align better with others.
+   4) Remove your social mask permanently and engage in continuous self-improvement through a positive cycle.
+2. The Unimportance of Names in Fiction
+3. Review of 7 Days to Die
+4. Review of Elden Ring
+5. The Benefits of Being Bald
+6. Autoromanticism
+7. Exploring the Themes and Story of Elden Ring
+8. Review of the Dresden Files
+9. Review of Ender's Game
+10. Defending Joseph Campbell's Theories
+11. Why Superman is a Great Superhero
+12. An Analysis of Cain's Banishment as the Most Fitting Punishment
+13. Questioning GNU's Branding
+14. The insignificance of Digital Privacy: Discuss why digital privacy might not matter as much as believed, mentioning Proton Mail and the inherent non-privacy of email.
+15. Essay on 'The Apparition'
+16. Reviews of Doom Wads
+17. How Sekiro Changed My Life
+18. Why Sardines are Fantastic
+19. A Step-by-Step Guide to Learning Programming:
+   1) Emphasize bottom-up learning over top-down approaches.
+   2) Read a programming book and complete its exercises.
+   3) Build a very simple initial project.
+   4) Develop a data structure, such as a linked list or hashmap.
+   5) Undertake a substantial project, like creating a programming language.
+20. Review of Daggerfall
+21. Review of Metal Gear Rising
+22. Creating the Strangest Programming Language Possible: Inspired by Mark Rendle's "The Worst Programming Language," combine various unusual programming features, like algebraic types and stack-based syntax.
+23. Essay on Socrates' Apology
+24. Why Red is a Calming Color, Not Stimulating
+25. Review of Mad God
+26. Essay on Wolf Children and Its Beauty
+27. Exploring the Concept of Personhood:
+   - Ship of Theseus
+   - Soul, Mind, Body
+   - Left Brain vs. Right Brain
+   - Monomyth
+   - Memories
+   - Preferences and Favorites
+28. Assigning Fursonas to Fictional Characters
+29. Publish a Review of Elden Ring's Music by Zenith
+30. Essay on David Bowie's 'Starman'
+31. Is "Teenagers" by My Chemical Romance Self-Aware?
+32. Portal 2's End Credits Song as a Great Breakup Anthem
+33. Review of Dweezil Zappa's 'The Gumbo Variations' (Live 2010): Seek advice from Zenith on music reviews.
+34. Propose a Harsh Rating System: Make lower ratings more meaningful (e.g., a 4/10 should indicate value and worth trying). Make it difficult to accumulate points but easy to lose them. Evaluate the balance of ambition and execution separately.
+35. Why My Fursona is a Bat
+36. How to Utilize ChatGPT for Creative Writing
+37. Advanced Programming Features in C:
+   - Multiple return types using stack pointers
+   - Encapsulation with object files, source, and header files
+   - Garbage collection techniques, mentioning:
+     - [TGC](https://github.com/orangeduck/tgc)
+     - [Boehm-Demers-Weiser Garbage Collector](https://www.hboehm.info/gc/)
+     - [Cello Garbage Collection](https://libcello.org/learn/garbage-collection)
+     - [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+     - [Writing a Simple Garbage Collector](https://maplant.com/2020-04-25-Writing-a-Simple-Garbage-Collector-in-C.html)
+   - Tagged unions for dynamic typing and currying
+   - Memory management with arenas and pools
+   - Dynamic strings using FILE* and `open_memstream`, mentioning:
+     - [fmem](https://github.com/Snaipe/fmem/tree/master)
+   - Embedded languages for scripting
+   - Using SQLite for complex data structures (optional)
+   - Generic programming with void* and macros
+   - RAII pattern
+38. Easy Guide to CMake
+39. Programmers as Wizards
+40. The Benefits of Strong Typing
+41. Easy Guide to LL and LR Grammars
+42. Intermediate Representation Challenge: Create a simple compiled language front end and test it with five different back-ends (LLVM, JVM, GIMPLE, custom). Rate the developer experience and the resulting language with benchmarks.
+43. Review of Waterways
+44. Exploring C Standard Library Functions
+45. Why I Regret Learning Emacs
+46. Amazing Features of Emacs:
+   - Register
+47. Easy Guide to Setting Up a Personal Linux Server with a Blog, Cloud, and Password Manager: Consider pitching this to Fedora Magazine.
+48. DNF: The Best Package Manager: Consider pitching this to Fedora Magazine.
+49. Write a Wikipedia-like Mockumentary Article on Something from Moon Blackthorn's Setting
+50. Firewall-cmd Guide: Consider pitching this to Fedora Magazine.
+51. Republish the [TIP] System Rescue Without a Live CD: Explore why it might not work on modern Ubuntu.
+52. Learn to Code a Terminal 2D Renderer with NCurses
+53. Why E621's Tag System is the Best for Exploring Web Content
+54. Defending "Chicken Little"
+55. Defending "Charlie and the Chocolate Factory"
+56. Why "Lemony Snicket’s A Series of Unfortunate Events" (2004) is Underrated
+57. Why Many Children's Media Focuses on Adult Themes:
+   - "Shrek": Midlife crisis, reassessment of life and identity
+   - "Shrek 2": Marriage, dealing with the devil, family and in-laws
+   - "Puss in Boots: The Last Wish": Midlife crisis, anxiety, fear of death, life's purpose
+   - "Rango": Fate, identity, corruption, greed, death, hope
+   - "Megamind": Fate, identity, redemption, purpose
+   - "The Incredibles": Midlife crisis, family vs. career balance, parenting and legacy, societal conformity vs. individualism
+   - Other adult-themed children's movies: "SpongeBob SquarePants," "The Emperor's New Groove," "Monsters, Inc."
+58. Article Title Ideas:
+   - The Adult Theory
+   - Why Children's Movies are Made for Adults
+   - Children's Movies Don't Care About Children
+   - The Ignored Children Theory
+   - The Parents Theory
+59. Scaring Your Children: Explore the benefits of showing scary movies to kids and provide movie recommendations.
+60. Publish My Essay on Experiences with Psilocybin
+61. Analyze the Message: "This place is a message... and part of a system of messages... pay attention to it!"
+62. Beyond Words: How Communication and Languages Transcend Natural Languages
+63. Why "Hoodwinked" is Wicked: Analyze the film "Hoodwinked" and its remarkable qualities.
+64. Review of "Why Fish Don’t Exist"
+65. Why I Don't Like Lovecraftian Horror:
+   - Overuse of cheap tricks and illusions; stories fall apart once you see through them.
+   - Requires extensive reading to fully understand.
+66. Finding Inspiration for Writing: Read existing stories, identify what they don't explore, and delve into those gaps. Use the Bible as a reference for its powerful yet vague content, which can inspire novel ideas.
+67. Publish a Recipe for Rice and Beans
+68. Publish "Laz Posting" from the Writing Club
+69. Review of "The Binding of Isaac"
+70. Publish the Idea for Antlerscript
+71. Suggestions for Furry Artists:
+   - LCSkeleton
+   - Wasteroforange
+   - CosmellCosplay
+72. Promote Hearthrob
+73. Why Youwy is an Excellent Resource for Learning Elden Ring
+74. My Experience with Comic Code
+75. Promote Red Mode for Editors
+76. Why Cryptocurrency is Problematic: Fact-check the idea that most cryptocurrency is held by exchanges and that most transactions occur through them, which undermines crypto's original purpose.
+77. Exploring Forgotten Martial Arts:
+   - Suieijutsu: Swimming in armor
+   - Hōjutsu: Shooting with firearms
+   - Fukumibarijutsu: Needle-spitting
+   - Mōjirijutsu: Fighting with a barbed staff
+78. Why Spears are Cooler Than Swords
+79. Exploring My Love for Montreal:
+   - A perfect blend of tradition, religion, and progressiveness through LGBT and arts
+   - Beautiful, historic, and one of the most European cities in North America
+   - Great public transit
+80. Review of Fonts
+81. Review of Color Palettes from Lospec
+82. Promote TLDR Pages and Info Pages in Linux
+83. List of Underrated Bash Shortcuts
+84. Promote Godbolt for Starting and Learning Programming
+85. Promote the 16 Personality Test as a Tool for Developing Characters
+86. Exploring a Theme-Centric Writing Process
+87. Exploring the Four Main Aspects of Storytelling:
+   - Characters
+   - Narrative
+   - Setting
+   - Theme
+88. Publish Character Sheets
+89. Promote the Big Five Personality Test
+90. Exploring Unusual Algorithms:
+91. Review of Prey (2017)
