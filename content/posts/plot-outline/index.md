@@ -173,11 +173,17 @@ Twists heighten the stakes and render the outcome of the scene uncertain, and ca
 - [ ] Is there social conflict?
 - [ ] Are the shocking moments spaced out?
 
-# TODO Subplots
+# TODO Back Story
 
 Monotony and predictability are common issues faced by writers, especially at the halfway mark of a novel.
 
-# TODO central sto
+# TODO Hidden Story
+
+# TODO Central Story Event
+
+# TODO Climax
+
+# TODO Resolution
 
 # Sequel
 
