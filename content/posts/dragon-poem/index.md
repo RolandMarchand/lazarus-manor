@@ -1,11 +1,10 @@
 ---
-Author: Lazarus Overlook
 title: Blue Dragon
 summary: Poem. Thumbnail art by LCSkeleton.
 date: 2024-06-01
 toc: false
 categories:
-    - Writing
+    - Creative Writing
 tags:
     - Creative Writing
     - Poetry

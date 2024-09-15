@@ -1,5 +1,4 @@
 ---
-Author: Lazarus Overlook
 title: How to Setup a C Project
 date: 2023-04-15
 toc: true

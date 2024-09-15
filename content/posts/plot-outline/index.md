@@ -5,7 +5,7 @@ summary: Template for designing compelling and well-structured narratives.
 date: 2024-06-01
 draft: true
 categories:
-    - Writing
+    - Creative Writing
 tags:
     - Creative Writing
     - Guide

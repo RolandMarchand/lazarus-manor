@@ -1,0 +1,11 @@
+{
+    "name": "Zenith Wolfe",
+    "image": "img/zenith.png",
+    "headline": "Freelance Ottawa-based reporter",
+    "bio": "Freelance Ottawa-based reporter",
+    "social": [
+	{ "email": "mailto:media@zenithwolfe.com" },
+	{ "link": "https://zenithwolfe.com/" },
+	{ "x-twitter": "https://twitter.com/zenith_wolfe" }
+    ]
+}

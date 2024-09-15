@@ -1,13 +1,13 @@
 ---
-Author: Lazarus Overlook
 title: Isle of the Dead's Conflicting Nature
 summary: Essay on Arnold Böcklin's 'Isle of the Dead.'
 date: 2024-09-08
 toc: false
 categories:
-    - Writing
+    - Media Analysis
 tags:
     - Essay
+    - Media Analysis
     - Painting
 draft: false
 ---
