@@ -21,11 +21,11 @@
 17. How Sekiro Changed My Life
 18. Why Sardines are Fantastic
 19. A Step-by-Step Guide to Learning Programming:
-   1) Emphasize bottom-up learning over top-down approaches.
-   2) Read a programming book and complete its exercises.
-   3) Build a very simple initial project.
-   4) Develop a data structure, such as a linked list or hashmap.
-   5) Undertake a substantial project, like creating a programming language.
+    1) Emphasize bottom-up learning over top-down approaches.
+    2) Read a programming book and complete its exercises.
+    3) Build a very simple initial project.
+    4) Develop a data structure, such as a linked list or hashmap.
+    5) Undertake a substantial project, like creating a programming language.
 20. Review of Daggerfall
 21. Review of Metal Gear Rising
 22. Creating the Strangest Programming Language Possible: Inspired by Mark Rendle's "The Worst Programming Language," combine various unusual programming features, like algebraic types and stack-based syntax.
@@ -34,118 +34,117 @@
 25. Review of Mad God
 26. Essay on Wolf Children and Its Beauty
 27. Exploring the Concept of Personhood:
-   - Ship of Theseus
-   - Soul, Mind, Body
-   - Left Brain vs. Right Brain
-   - Monomyth
-   - Memories
-   - Preferences and Favorites
+    - Ship of Theseus
+    - Soul, Mind, Body
+    - Left Brain vs. Right Brain
+    - Monomyth
+    - Memories
+    - Preferences and Favorites
 28. Assigning Fursonas to Fictional Characters
-29. Publish a Review of Elden Ring's Music by Zenith
-30. Essay on David Bowie's 'Starman'
-31. Is "Teenagers" by My Chemical Romance Self-Aware?
-32. Portal 2's End Credits Song as a Great Breakup Anthem
-33. Review of Dweezil Zappa's 'The Gumbo Variations' (Live 2010): Seek advice from Zenith on music reviews.
-34. Propose a Harsh Rating System: Make lower ratings more meaningful (e.g., a 4/10 should indicate value and worth trying). Make it difficult to accumulate points but easy to lose them. Evaluate the balance of ambition and execution separately.
-35. Why My Fursona is a Bat
-36. How to Utilize ChatGPT for Creative Writing
-37. Advanced Programming Features in C:
-   - Multiple return types using stack pointers
-   - Encapsulation with object files, source, and header files
-   - Garbage collection techniques, mentioning:
-     - [TGC](https://github.com/orangeduck/tgc)
-     - [Boehm-Demers-Weiser Garbage Collector](https://www.hboehm.info/gc/)
-     - [Cello Garbage Collection](https://libcello.org/learn/garbage-collection)
-     - [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-     - [Writing a Simple Garbage Collector](https://maplant.com/2020-04-25-Writing-a-Simple-Garbage-Collector-in-C.html)
-   - Tagged unions for dynamic typing and currying
-   - Memory management with arenas and pools
-   - Dynamic strings using FILE* and `open_memstream`, mentioning:
-     - [fmem](https://github.com/Snaipe/fmem/tree/master)
-   - Embedded languages for scripting
-   - Using SQLite for complex data structures (optional)
-   - Generic programming with void* and macros
-   - RAII pattern
-38. Easy Guide to CMake
-39. Programmers as Wizards
-40. The Benefits of Strong Typing
-41. Easy Guide to LL and LR Grammars
-42. Intermediate Representation Challenge: Create a simple compiled language front end and test it with five different back-ends (LLVM, JVM, GIMPLE, custom). Rate the developer experience and the resulting language with benchmarks.
-43. Review of Waterways
-44. Exploring C Standard Library Functions
-45. Why I Regret Learning Emacs
-46. Amazing Features of Emacs:
-   - Register
-47. Easy Guide to Setting Up a Personal Linux Server with a Blog, Cloud, and Password Manager: Consider pitching this to Fedora Magazine.
-48. DNF: The Best Package Manager: Consider pitching this to Fedora Magazine.
-49. Write a Wikipedia-like Mockumentary Article on Something from Moon Blackthorn's Setting
-50. Firewall-cmd Guide: Consider pitching this to Fedora Magazine.
-51. Republish the [TIP] System Rescue Without a Live CD: Explore why it might not work on modern Ubuntu.
-52. Learn to Code a Terminal 2D Renderer with NCurses
-53. Why E621's Tag System is the Best for Exploring Web Content
-54. Defending "Chicken Little"
-55. Defending "Charlie and the Chocolate Factory"
-56. Why "Lemony Snicket’s A Series of Unfortunate Events" (2004) is Underrated
-57. Why Many Children's Media Focuses on Adult Themes:
-   - "Shrek": Midlife crisis, reassessment of life and identity
-   - "Shrek 2": Marriage, dealing with the devil, family and in-laws
-   - "Puss in Boots: The Last Wish": Midlife crisis, anxiety, fear of death, life's purpose
-   - "Rango": Fate, identity, corruption, greed, death, hope
-   - "Megamind": Fate, identity, redemption, purpose
-   - "The Incredibles": Midlife crisis, family vs. career balance, parenting and legacy, societal conformity vs. individualism
-   - Other adult-themed children's movies: "SpongeBob SquarePants," "The Emperor's New Groove," "Monsters, Inc."
-58. Article Title Ideas:
-   - The Adult Theory
-   - Why Children's Movies are Made for Adults
-   - Children's Movies Don't Care About Children
-   - The Ignored Children Theory
-   - The Parents Theory
-59. Scaring Your Children: Explore the benefits of showing scary movies to kids and provide movie recommendations.
-60. Publish My Essay on Experiences with Psilocybin
-61. Analyze the Message: "This place is a message... and part of a system of messages... pay attention to it!"
-62. Beyond Words: How Communication and Languages Transcend Natural Languages
-63. Why "Hoodwinked" is Wicked: Analyze the film "Hoodwinked" and its remarkable qualities.
-64. Review of "Why Fish Don’t Exist"
-65. Why I Don't Like Lovecraftian Horror:
-   - Overuse of cheap tricks and illusions; stories fall apart once you see through them.
-   - Requires extensive reading to fully understand.
-66. Finding Inspiration for Writing: Read existing stories, identify what they don't explore, and delve into those gaps. Use the Bible as a reference for its powerful yet vague content, which can inspire novel ideas.
-67. Publish a Recipe for Rice and Beans
-68. Publish "Laz Posting" from the Writing Club
-69. Review of "The Binding of Isaac"
-70. Publish the Idea for Antlerscript
-71. Suggestions for Furry Artists:
-   - LCSkeleton
-   - Wasteroforange
-   - CosmellCosplay
-72. Promote Hearthrob
-73. Why Youwy is an Excellent Resource for Learning Elden Ring
-74. My Experience with Comic Code
-75. Promote Red Mode for Editors
-76. Why Cryptocurrency is Problematic: Fact-check the idea that most cryptocurrency is held by exchanges and that most transactions occur through them, which undermines crypto's original purpose.
-77. Exploring Forgotten Martial Arts:
-   - Suieijutsu: Swimming in armor
-   - Hōjutsu: Shooting with firearms
-   - Fukumibarijutsu: Needle-spitting
-   - Mōjirijutsu: Fighting with a barbed staff
-78. Why Spears are Cooler Than Swords
-79. Exploring My Love for Montreal:
-   - A perfect blend of tradition, religion, and progressiveness through LGBT and arts
-   - Beautiful, historic, and one of the most European cities in North America
-   - Great public transit
-80. Review of Fonts
-81. Review of Color Palettes from Lospec
-82. Promote TLDR Pages and Info Pages in Linux
-83. List of Underrated Bash Shortcuts
-84. Promote Godbolt for Starting and Learning Programming
-85. Promote the 16 Personality Test as a Tool for Developing Characters
-86. Exploring a Theme-Centric Writing Process
-87. Exploring the Four Main Aspects of Storytelling:
-   - Characters
-   - Narrative
-   - Setting
-   - Theme
-88. Publish Character Sheets
-89. Promote the Big Five Personality Test
-90. Exploring Unusual Algorithms:
-91. Review of Prey (2017)
+29. Essay on David Bowie's 'Starman'
+30. Is "Teenagers" by My Chemical Romance Self-Aware?
+31. Portal 2's End Credits Song as a Great Breakup Anthem
+32. Review of Dweezil Zappa's 'The Gumbo Variations' (Live 2010): Seek advice from Zenith on music reviews.
+33. Propose a Harsh Rating System: Make lower ratings more meaningful (e.g., a 4/10 should indicate value and worth trying). Make it difficult to accumulate points but easy to lose them. Evaluate the balance of ambition and execution separately.
+34. Why My Fursona is a Bat
+35. How to Utilize ChatGPT for Creative Writing
+36. Advanced Programming Features in C:
+    - Multiple return types using stack pointers
+    - Encapsulation with object files, source, and header files
+    - Garbage collection techniques, mentioning:
+      - [TGC](https://github.com/orangeduck/tgc)
+      - [Boehm-Demers-Weiser Garbage Collector](https://www.hboehm.info/gc/)
+      - [Cello Garbage Collection](https://libcello.org/learn/garbage-collection)
+      - [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+      - [Writing a Simple Garbage Collector](https://maplant.com/2020-04-25-Writing-a-Simple-Garbage-Collector-in-C.html)
+    - Tagged unions for dynamic typing and currying
+    - Memory management with arenas and pools
+    - Dynamic strings using FILE* and `open_memstream`, mentioning:
+      - [fmem](https://github.com/Snaipe/fmem/tree/master)
+    - Embedded languages for scripting
+    - Using SQLite for complex data structures (optional)
+    - Generic programming with void* and macros
+    - RAII pattern
+37. Easy Guide to CMake
+38. Programmers as Wizards
+39. The Benefits of Strong Typing
+40. Easy Guide to LL and LR Grammars
+41. Intermediate Representation Challenge: Create a simple compiled language front end and test it with five different back-ends (LLVM, JVM, GIMPLE, custom). Rate the developer experience and the resulting language with benchmarks.
+42. Review of Waterways
+43. Exploring C Standard Library Functions
+44. Why I Regret Learning Emacs
+45. Amazing Features of Emacs:
+    - Register
+46. Easy Guide to Setting Up a Personal Linux Server with a Blog, Cloud, and Password Manager: Consider pitching this to Fedora Magazine.
+47. DNF: The Best Package Manager: Consider pitching this to Fedora Magazine.
+48. Write a Wikipedia-like Mockumentary Article on Something from Moon Blackthorn's Setting
+49. Firewall-cmd Guide: Consider pitching this to Fedora Magazine.
+50. Republish the [TIP] System Rescue Without a Live CD: Explore why it might not work on modern Ubuntu.
+51. Learn to Code a Terminal 2D Renderer with NCurses
+52. Why E621's Tag System is the Best for Exploring Web Content
+53. Defending "Chicken Little"
+54. Defending "Charlie and the Chocolate Factory"
+55. Why "Lemony Snicket’s A Series of Unfortunate Events" (2004) is Underrated
+56. Why Many Children's Media Focuses on Adult Themes:
+    - "Shrek": Midlife crisis, reassessment of life and identity
+    - "Shrek 2": Marriage, dealing with the devil, family and in-laws
+    - "Puss in Boots: The Last Wish": Midlife crisis, anxiety, fear of death, life's purpose
+    - "Rango": Fate, identity, corruption, greed, death, hope
+    - "Megamind": Fate, identity, redemption, purpose
+    - "The Incredibles": Midlife crisis, family vs. career balance, parenting and legacy, societal conformity vs. individualism
+    - Other adult-themed children's movies: "SpongeBob SquarePants," "The Emperor's New Groove," "Monsters, Inc."
+57. Article Title Ideas:
+    - The Adult Theory
+    - Why Children's Movies are Made for Adults
+    - Children's Movies Don't Care About Children
+    - The Ignored Children Theory
+    - The Parents Theory
+58. Scaring Your Children: Explore the benefits of showing scary movies to kids and provide movie recommendations.
+59. Analyze the Message: "This place is a message... and part of a system of messages... pay attention to it!"
+60. Beyond Words: How Communication and Languages Transcend Natural Languages
+61. Why "Hoodwinked" is Wicked: Analyze the film "Hoodwinked" and its remarkable qualities.
+62. Review of "Why Fish Don’t Exist"
+63. Why I Don't Like Lovecraftian Horror:
+    - Overuse of cheap tricks and illusions; stories fall apart once you see through them.
+    - Requires extensive reading to fully understand.
+64. Finding Inspiration for Writing: Read existing stories, identify what they don't explore, and delve into those gaps. Use the Bible as a reference for its powerful yet vague content, which can inspire novel ideas.
+65. Publish a Recipe for Rice and Beans
+66. Publish "Laz Posting" from the Writing Club
+67. Review of "The Binding of Isaac"
+68. Publish the Idea for Antlerscript
+69. Suggestions for Furry Artists:
+    - LCSkeleton
+    - Wasteroforange
+    - CosmellCosplay
+70. Promote Hearthrob
+71. Why Youwy is an Excellent Resource for Learning Elden Ring
+72. My Experience with Comic Code
+73. Promote Red Mode for Editors
+74. Why Cryptocurrency is Problematic: Fact-check the idea that most cryptocurrency is held by exchanges and that most transactions occur through them, which undermines crypto's original purpose.
+75. Exploring Forgotten Martial Arts:
+    - Suieijutsu: Swimming in armor
+    - Hōjutsu: Shooting with firearms
+    - Fukumibarijutsu: Needle-spitting
+    - Mōjirijutsu: Fighting with a barbed staff
+76. Why Spears are Cooler Than Swords
+77. Exploring My Love for Montreal:
+    - A perfect blend of tradition, religion, and progressiveness through LGBT and arts
+    - Beautiful, historic, and one of the most European cities in North America
+    - Great public transit
+78. Review of Fonts
+79. Review of Color Palettes from Lospec
+80. Promote TLDR Pages and Info Pages in Linux
+81. List of Underrated Bash Shortcuts
+82. Promote Godbolt for Starting and Learning Programming
+83. Promote the 16 Personality Test as a Tool for Developing Characters
+84. Exploring a Theme-Centric Writing Process
+85. Exploring the Four Main Aspects of Storytelling:
+    - Characters
+    - Narrative
+    - Setting
+    - Theme
+86. Publish Character Sheets
+87. Promote the Big Five Personality Test
+88. Exploring Unusual Algorithms:
+89. Review of Prey (2017)
+90. Essay on childhood trauma and abuse, inspired by Hansel and Gretel and Skinemarink
