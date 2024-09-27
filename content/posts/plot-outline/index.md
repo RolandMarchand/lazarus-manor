@@ -227,6 +227,31 @@ Monotony and predictability are common issues faced by writers, especially at th
 
 ## TODO Hidden Story
 
+## Opening Scene
+
+All these elements must be included in the first 30 pages of your novel. A skilled writer can fit a third or more of these in just a few paragraphs.
+
+- Hook in the first sentence (the most important sentence in the novel)
+- protagonist
+- Story goal
+- Central story's question
+- Clear viewpoint
+- Setup of the current story situation
+- Location
+- Time of day
+- Introduction of immediate antagonist
+- Scene's action and conflict
+- Hints for later developments
+- Numerous small hooks for reader's curiosity and involvement
+- First complications
+
+### Introducing The Protagonist
+
+1) What first or lasting Impression should the protagonist make on readers?
+2) How should the protagonist be brought into the story simply, quickly, and efficiently?
+3) How can the protagonist demonstrate what kind of person he is without stopping the story to dump his back story?
+4) How can the protagonist be sympathetic and likeable?
+
 ## TODO Central Story Event
 
 ## TODO Climax
