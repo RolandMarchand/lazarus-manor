@@ -9,11 +9,13 @@ categories:
 tags:
     - Doom
     - Video Games
+authors:
+    - lazarus-overlook
 ---
 
 This is a guide on how to play Doom I and II on modern software, including all the mods.
 
-![Cover of Doom 1](featured.jpg)
+![Cover of Doom 1](featured.webp)
 
 ## Issues With DOSBox
 

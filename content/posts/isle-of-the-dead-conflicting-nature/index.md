@@ -11,9 +11,11 @@ tags:
     - Media Analysis
     - Painting
 draft: false
+authors:
+    - lazarus-overlook
 ---
 
-![isle of the dead's painting](painting.jpg)
+![isle of the dead's painting](painting.webp)
 
 Arnold Böcklin's symbolist painting "Isle of the Dead" was an important cultural phenomenon in the late 19th and early 20th centuries, being displayed in most German households at the time. It was owned by notable figures such as Adolf Hitler, Sigmund Freud, and Vladimir Lenin. This painting enthralled many with its depiction of the subconscious through a small boat approaching a desolate, rocky islet. Despite this humble scene, this painting carries something captivating and ominous. This is my attempt at revealing the conflicting and mysterious nature of this artwork.
 

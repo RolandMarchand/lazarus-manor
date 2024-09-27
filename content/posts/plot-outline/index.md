@@ -12,7 +12,17 @@ tags:
     - Creative Writing
     - Guide
     - Storytelling
+authors:
+    - lazarus-overlook
 ---
+
+<!-- Download button -->
+<a href="/posts/plot-outline/template.md" download="template.md">
+	<button class="cute-button">
+		Download Template
+	</button>
+</a>
+
 In this post, I will present the outline template I use for designing compelling and well-structured narratives.
 
 Outlining is a crucial step of the writing pipeline, which can be divided into three major steps: outlining, writing, and editing. Without a solid outline, the writing process will slow down to a crawl and insecurities will creep in as you progress through the chapters. Your story won't be cohesive and your characters will meander around. You will have wished you outlined beforehand. If you somehow get through the gruelling writing process, editing will surely kill your motivation. It will be made clear to you how your story isn't worth reading in its current state and you will realize how all your love and effort has gone to waste.

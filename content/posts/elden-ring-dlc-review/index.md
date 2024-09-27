@@ -11,7 +11,7 @@ tags:
     - Video Games
 ---
 
-![Elden Ring Shadow of the Erdtree wallpaper](featured.jpg)
+![Elden Ring Shadow of the Erdtree wallpaper](sote.webp)
 
 Elden Ring is probably the video game that has impacted me the most as a person. I have a complicated relationship with the game, and I cannot think of a more deep and nuanced experience.
 
