@@ -1,8 +1,8 @@
 ---
 title: Blue Dragon
-summary: Poem. Thumbnail art by LCSkeleton.
+summary: Poem of a great blue dragon.
+Description: Blue Dragon. Lazarus Overlook; O Dragon, dragging my dramatic soul to your dreams dwelling in the dark blue, O great drake who rules over drizzle and draught. We are wrapped in cool arctic winds, lost in the deep twilight void of your soul. Yet, you warm me with your kind and mighty embrace, a warmth only spoken of in legends...
 date: 2024-06-01
-toc: false
 categories:
     - Creative Writing
 tags:

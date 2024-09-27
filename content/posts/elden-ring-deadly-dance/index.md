@@ -1,6 +1,7 @@
 ---
 title: "Elden Ring and 3/4-time: A Deadly Dance"
 summary: Essay by Zenith Wolfe on Elden Ring's soundtrack.
+description: An Elden Ring boss fight resembles a carefully choreographed dance, where each move, strike, and evasion is timed to the rhythm of the game’s dynamic combat. The composers Shoi Miyazawa and Tai Tomisawa enhance this experience through unconventional time signatures, reflecting both the lore and the intensity of each encounter. Whether it's Godrick’s chaotic, warlike 3/4-time or the triumphant brass of Godfrey, the music’s rhythm becomes an integral part of the player’s experience, echoing the bosses’ personalities and amplifying the uncertainty and drama of battle.
 date: 2023-06-08
 toc: false
 categories:

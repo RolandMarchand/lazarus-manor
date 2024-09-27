@@ -2,6 +2,7 @@
 author: Lazarus Overlook
 title: How to Play Doom
 summary: Guide on source ports and WADs, what are they, why we need them, and where to get them.
+description: Learn how to play classic Doom I and II the modern way. With this guide, you will learn how to play Doom mods, which ports is best suited for you, and where to find the Doom game files.
 date: 2024-09-14
 categories:
     - Video Games

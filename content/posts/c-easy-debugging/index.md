@@ -1,6 +1,7 @@
 ---
 title: Easy C Debugging
-Summary: Learn the basics of the GNU Debugger.
+summary: Learn the basics of the GNU Debugger.
+description: Learn how to use the GNU Debugger to debug C and C++ programs, analyze control flow, inspect variables at run-time, and fix crashes and segmentation faults.
 date: 2022-10-18
 image: thumbnail.webp
 categories:

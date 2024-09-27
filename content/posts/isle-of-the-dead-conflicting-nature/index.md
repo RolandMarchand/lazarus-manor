@@ -1,6 +1,7 @@
 ---
 title: Isle of the Dead's Conflicting Nature
 summary: Essay on Arnold Böcklin's 'Isle of the Dead.'
+description: An art essay analyzing Arnold Böcklin's painting 'Isle of the Dead.' It is a famous painting and important cultural phenomenon in the late 19th and early 20th centuries, being displayed in most German households at the time. It was owned by notable figures such as Adolf Hitler, Sigmund Freud, and Vladimir Lenin. This painting enthralled many with its depiction of the subconscious through a small boat approaching a desolate, rocky islet. Despite this humble scene, this painting carries something captivating and ominous. This is my attempt at revealing the conflicting and mysterious nature of this artwork.
 date: 2024-09-08
 toc: false
 categories:
@@ -14,7 +15,7 @@ draft: false
 
 ![isle of the dead's painting](painting.jpg)
 
-Arnold Böcklin's "Isle of the Dead" appears to depict a boat approaching a small, rocky island. Despite this humble scene, there is something captivating and ominous about it. This is my attempt at revealing the conflicting and mysterious nature of this artwork.
+Arnold Böcklin's symbolist painting "Isle of the Dead" was an important cultural phenomenon in the late 19th and early 20th centuries, being displayed in most German households at the time. It was owned by notable figures such as Adolf Hitler, Sigmund Freud, and Vladimir Lenin. This painting enthralled many with its depiction of the subconscious through a small boat approaching a desolate, rocky islet. Despite this humble scene, this painting carries something captivating and ominous. This is my attempt at revealing the conflicting and mysterious nature of this artwork.
 
 The painting's lighting is notably inconsistent. The sky and waters are enveloped in a dark, colorless night, while the island and boat are bathed in a soft, golden glow. This contrast brings an imbalance to the scene's atmosphere. The trees, in particular, are shrouded in darkness while surrounded by the brightly lit rocks. The tree's lighting also contradicts with the illumination on the rest of the vegetation consisting of bushes and moss. These discrepancies are somewhat forgiven due to the overall balance and natural flow of the composition.
 

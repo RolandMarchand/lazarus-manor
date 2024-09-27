@@ -12,68 +12,52 @@ draft: true
 ---
 ## Preface
 
-Aside from some libraries, C projects are rarely made out of a single easy to
-compile source file.
+Most C projects are rarely made out of a single, easy to compile source
+file. Instead, they are spread out across into multiple source and header files,
+some even generated during compilation. It is common for most programming
+projects to have multiple compilation targets, "debug" and "release" being the
+most common. Let's not forget automated tests, generated documentation, and
+dependencies. Larger projects can also take a long time to compile, so compiling
+in parallel can save hours on the long run. Such big projects are often worked
+on by teams where each member must have the same easy-to-use environment.
 
-Most projects are divided into multiple source and header files, with some
-generated during compilation with [flex](https://github.com/westes/flex) or
-[bison](https://www.gnu.org/software/bison/). Those projects often have multiple
-compiling targets, with "debug" and "release" being the most common, and they
-can also have automated tests, integration with CI systems, generated
-documentation, or dependencies. Not to mention that those dependencies, if
-dynamic, need to be found on the developer's device.
+There are tools available to handle this
+task. [Make](https://makefiletutorial.com/) is one such popular tool, although
+it lacks important built-in features like integrated testing, dependency
+management, or cross-platform compilation among others.
 
-Those projects can also take a long time to compile, so utilizing parallelism
-and only compiling uncompiled files can save hours on the long run. Such big
-projects are often worked on by teams, where each member can have a different
-machine, which needs to compile the project with identical results to the rest
-of the team.
-
-Addressing these requirements is a significant challenge that all languages must
-face. Most languages have ways of handling those requirements, like Go, Rust,
-C#, Ruby or Swift, which include their own build system. Languages that don't
-have this feature included often have good alternatives like
-[npm](https://www.npmjs.com/) for JavaScript, or
-[pip](https://pypi.org/project/pip/) for Python.
-
-But when it comes to C, there is no cookie-cutter solution. You may have heard
-of Make, which can do a good job for small projects (Theicfire made a [wonderful
-tutorial on make](https://makefiletutorial.com/)), but a fair bit of work still
-needs to be put into make files as they are essentially fancy shell scripts.
-
-I have been using CMake for about a year, and my experience was stellar. Here is
-how I do it.
-
-> **Note:** CMake is only one option, and I am not claiming that CMake is the
-> uncontested champion.
+A more advanced solution includes CMake. I have been casually using CMake for
+about two year with great results, and I will detail my setup.
 
 ## Skeleton
 
-Here are the files and folders that I often have at the root of my projects:
+Here is how I structure my projects from the root:
 
 ### Directories
-* `src`, where most of the code goes. Mostly contains `.c` and `.h`
-  files. People often have a different folder for header files, but I never
-  found this useful.
-* `tests`, where the test files go. Mostly contains `.c` files, which are
-  intended for individual compilation by CMake. Resource files or header files
-  with extensive test data is welcome. More on that in [Testing](#testing)
-* `res`, where your resources should go, such as images, audio, configuration
-  files, or data. If you're making a graphical application, you probably want to
-  use resources, such as sprites and music for a game, or icons for menu
-  buttons.
-* `doc`, where you write the documentation for your project. More on that in
+* `/src` contains the application/library's source code: `.c` source files and
+  `.h` header files. People often place header files into a `/header` directory,
+  but I never found this useful.
+* `/tests` contains the test files: `.c` files each containing a `main()`
+  function. They are intended for individual compilation by CMake and tested
+  using the integrated **CTest** utility. More on testing [later](#testing)
+* `/assets` contains your resources such as sprites, music, sound effects,
+  icons, UI elements, etc. This directory is most commonly found in graphical
+  application, like games.
+* `/doc` contains the documentation for your project. More on that in
   [Documentation](#documentation).
-* `thirdparty`, where the external dependencies go. More on that later.
-* `.git`, automatically generated when using `git`. If you have not learned it
-  yet, [*commit
-  yourself*](https://docs.github.com/en/get-started/using-git/about-git).
+* `/modules` contains the external dependencies such as libraries. More on that later.
+* `.git` is automatically generated when initializing a Git repository. This
+  article will not cover Git, but be aware that version control is a requirement
+  for any programmer. You can learn more about Git
+  [*here*](https://docs.github.com/en/get-started/using-git/about-git).
 
 ### Files
 * `CMakeLists.txt`, the most important root file. This file is the configuration
   of your build system. More on that in [CMake](#cmake).
+  <!-- PICK BACK FROM HERE -->
 * `README.md`, an introduction to your project, formatted as
-  [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Optional. Should
+  [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
+Optional. Should
   explain what your project is, how to build and use it, what's your stance on
   contributions, and include your license. You can also add badges, if you're a
   cool kid.
