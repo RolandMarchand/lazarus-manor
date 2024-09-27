@@ -11,7 +11,6 @@ tags:
     - C++
     - Debugging
     - Programming
-license: CC BY 4.0
 ---
 
 ## Introduction
