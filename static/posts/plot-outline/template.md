@@ -70,7 +70,7 @@ These questions must be answered in the first 30 pages of your novel. Approximat
 
 - Scene's action and conflict
 
-- How are the later developments hinted at?
+- How are the later developments hinted at? (e.g. in Lord of the Rings, the audience quickly learns of the ring's corrupting powers, but they aren't shown directly what it looks like. Instead, the story hints at Frodo's declining mental health and the future arrival of Gollum, later in the story).
 
 - How is the readers' curiosity maintained?
 
