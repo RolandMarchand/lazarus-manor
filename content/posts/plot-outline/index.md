@@ -210,11 +210,11 @@ A story is divided into scenes. There are two kinds of scenes: [conflict scenes]
 
 - What is going on?
 
-- Who are the players?
+- Where does the scene take place?
 
-- What is the locale?
+- What is the time of day?
 
-- What is the mood?
+- What are the mood and atmosphere?
 
 ### Hook
 
