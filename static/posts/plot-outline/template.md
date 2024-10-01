@@ -60,7 +60,7 @@ These questions must be answered in the first 30 pages of your novel. Approximat
 
 - What is the central story's question?
 
-- Who is the viewpoint?
+- Who is the viewpoint character?
 
 - Where does the story take place?
 
@@ -140,7 +140,9 @@ A story is divided into scenes. There are two kinds of scenes: [conflict scenes]
 
 ### Viewpoint
 
-Which type of viewpoint is used?
+- Which type of viewpoint is used?
+
+- Who is the viewpoint character?
 
 > **Warning!** Never <u>**ever**</u> change viewpoints within a scene!
 
