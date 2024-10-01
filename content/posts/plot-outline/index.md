@@ -92,8 +92,6 @@ These questions must be answered in the first 30 pages of your novel. Approximat
 
 - Who is the viewpoint?
 
-- What is the current situation of the story?
-
 - Where does the story take place?
 
 - What is the time of day?
