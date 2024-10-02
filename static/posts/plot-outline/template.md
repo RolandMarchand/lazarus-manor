@@ -24,7 +24,7 @@ In between your major scenes, couple as many [sequel](#sequel) and [conflict sce
 
 ## SPOOC
 
-SPOOC is a 2 sentences template to test your story's fundamentals, to assure yourself that it is sturdy enough to last a book. The first sentence establishes the situation, and the second turns the central story goal into a question.
+SPOOC is a 2 sentence template to test your story's fundamentals, to assure yourself that it is sturdy enough to last a book. The first sentence establishes the situation, and the second turns the central story goal into a question.
 
 - Situation:
 
@@ -106,7 +106,7 @@ Part of achieving this involves hooking your readers. Here are some of the most 
 
 3) How can the protagonist demonstrate what kind of person they are without interrupting the story to dump their backstory?
 
-4) How to make the protagonist sympathetic and likeable?
+4) How to make the protagonist sympathetic and likable?
 
 ## Conflict Scene
 
@@ -302,9 +302,9 @@ This is the story of other non-viewpoint characters, it isn't explicitly told to
 
 ### Resolution
 
-- What is the story outcome, does the protagonist achieves their goal?
+- What is the story outcome, does the protagonist achieve their goal?
 
-	 1. [ ] **Yes**, the protagonist achieves their goal (reserved for antagonist's viewpoint or plot endings).
+	 1. [ ] **Yes**, the protagonist achieves their goal (reserved for the antagonist's viewpoint or plot endings).
 
 	 2. [ ] **Yes**, but things are now way worse for the protagonist (prioritize using most often).
 
@@ -444,7 +444,7 @@ The setback should be "no and furthermore" and contain a startling surprise that
 
 	- How is the main scene hyped up?
 
-2. **Emotional Turmoil**: for example, the characters could be in denial about the event, then feel anxious when it is about to come. They could then feel relieved after hearing the false news of the event being cancelled, and then shocked when it actually happens. Be cruel and creative.
+2. **Emotional Turmoil**: for example, the characters could be in denial about the event, then feel anxious when it is about to come. They could then feel relieved after hearing the false news of the event being canceled, and then shocked when it actually happens. Be cruel and creative.
 
 	- Describe a timeline of the emotional turmoil of the characters in regards to the big scene.
 
@@ -506,7 +506,7 @@ The climax of the story should be the ultimate test for the protagonist. The tes
 
 ### Managing Subplots
 
-Every major subplot should be resolved in their own scene mirroring a mini-climax, this scene shouldn't answer the central story question and isn't the main climax of the novel. Although, it should further complicate story events and further drive the story to its conclusion.
+Every major subplot should be resolved in its own scene mirroring a mini-climax, this scene shouldn't answer the central story question and isn't the main climax of the novel. Although, it should further complicate story events and further drive the story to its conclusion.
 
 - Which subplots should be tied-off?
 
@@ -530,7 +530,7 @@ Every major subplot should be resolved in their own scene mirroring a mini-clima
 
 	- Which of the protagonist's weaknesses are targeted?
 
-	- How is the protagonist pressured to take a decision as soon as possible?
+	- How is the protagonist pressured to make a decision as soon as possible?
 
 3. **Taking action**: after *fully* committing to a sacrifice, the decision is permanent. Bridges should be burned and consequences should be suffered.
 
@@ -578,7 +578,7 @@ Every major subplot should be resolved in their own scene mirroring a mini-clima
 
 - [ ] Does the protagonist fully commit to their decision?
 
-- [ ] Does the decision consists of taking difficult sacrifices?
+- [ ] Does the decision consist of taking difficult sacrifices?
 
 - [ ] Do the readers get to feel the emotional toll of the protagonist's decision in a long-thorough sequel?
 
@@ -586,7 +586,7 @@ Every major subplot should be resolved in their own scene mirroring a mini-clima
 
 - [ ] Does the protagonist's outcome make sense considering the morality of their decision to the test?
 
-- [ ] If the protagonist is morally wrong, do they definitively lose the final confrontation?
+- [ ] If the protagonist is morally wrong, do they lose the final confrontation?
 
 - [ ] If the protagonist is morally right, does the protagonist reverse the situation by their own efforts?
 
