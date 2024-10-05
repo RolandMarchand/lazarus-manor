@@ -62,4 +62,5 @@ title = "Lazarus Overlook's Manor"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
     { bluesky = "https://bsky.app/profile/lazarus-overlook.bsky.social" },
+    { rss = "https://lazarusoverlook.com/index.xml" },
   ]
