@@ -9,6 +9,7 @@
 	{ "github": "https://github.com/RolandMarchand" },
 	{ "steam": "https://steamcommunity.com/id/moowool" },
 	{ "telegram": "https://t.me/LazarusOverlook" },
-	{ "bluesky": "https://bsky.app/profile/lazarus-overlook.bsky.social" }
+	{ "bluesky": "https://bsky.app/profile/lazarus-overlook.bsky.social" },
+	{ "rss": "https://lazarusoverlook.com/index.xml" }
     ]
 }
