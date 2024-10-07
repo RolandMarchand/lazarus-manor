@@ -174,16 +174,16 @@ comfortable with the debugger.
 And with that, we've nearly completely eliminated the need to test with
 *printf()* statements.
 
-## Frame Stack
+## Stack Frame
 
 You now know enough to debug effectively, everything listed above is 70% of what
 you're going to use. But there is one last thing I'd like to touch on: the frame
 stack.
 
-The frame stack is the path the program took to get a to a certain function
+The stack frame is the path the program took to get a to a certain function
 call. If function *main()* calls function *game_loop()*, which calls function
 *move_player()*, and a breakpoint is reached in the last function, then the
-frame stack printed with the `backtrace` command will look like this:
+stack frame printed with the `backtrace` command will look like this:
 
 ```
 #0  move_player (x=0, y=0) at test.c:11
@@ -193,7 +193,7 @@ frame stack printed with the `backtrace` command will look like this:
 
 This can be very useful to know. If your function doesn't work as expected, but
 only *sometimes*, then it may have something to do with the functions that were
-called before it. The frame stack can also be used to capture hard-to-find
+called before it. The stack frame can also be used to capture hard-to-find
 recursion bugs.
 
 It's also possible to move from frame to frame with the `frame` command. In the

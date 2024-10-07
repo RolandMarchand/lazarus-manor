@@ -148,3 +148,5 @@
 88. Exploring Unusual Algorithms:
 89. Review of Prey (2017)
 90. Essay on childhood trauma and abuse, inspired by Hansel and Gretel and Skinemarink
+91. Zandronum setup guide
+92. Doom improvement pack (smooth doom, etc)
