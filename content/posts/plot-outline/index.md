@@ -38,7 +38,7 @@ Feel free to modify and redistribute this template, as it is released into the p
 
 Each of these sections is intended to be filled out **once** to provide a cohesive structure for your narrative:
 
-- [SPOOC](#spooc): this section serves as a condensed version of your story's core elements, summarizing the main plot, protagonist, and antagonist to test your story's fundamentals.
+- [Story plan](#story-plan): this section serves as a condensed version of your story's core elements, summarizing the main plot, protagonist, and antagonist to test your story's fundamentals.
 
 - [Opening scene](#opening-scene): this section serves to establish the most important elements of your story, to hook your readers as quickly as possible, and to introduce your protagonist. It should be used in tandem with a [conflict scene](#conflict-scene), or occasionally a [sequel](#sequel).
 
@@ -50,7 +50,29 @@ Each of these sections is intended to be filled out **once** to provide a cohesi
 
 In between your major scenes, couple as many [sequel](#sequel) and [conflict scenes](#conflict-scene) as necessary for your story's development.
 
-## SPOOC
+## Story Plan
+
+### Foundations
+
+- Who is the protagonist?
+
+- Who is the antagonist?
+
+- What is their conflict?
+
+### Testing the Inner Flaw
+
+The test is the protagonist's inner conflict central to the whole story. It cannot be ignored by the protagonist and must be answered in the [climax](#climax). This challenge must cause the protagonist great hardship and require him to do sacrifices. The test should make victory seem nearly impossible and victory should be surprising to the reader.
+
+- What is the protagonist's inner flaw?
+
+- How does the antagonist test the protagonist's true nature?
+
+- What must the protagonist sacrifice to resolve the test?
+
+- How will the protagonist evolve after this test?
+
+### SPOOC
 
 SPOOC is a 2 sentence template to test your story's fundamentals, to assure yourself that it is sturdy enough to last a book. The first sentence establishes the situation, and the second turns the central story goal into a question.
 
@@ -66,7 +88,7 @@ SPOOC stands for:
 
 - Climax
 
-### Example
+#### Example
 
 - Situation: when he is approached by Gandalf
 
@@ -534,16 +556,6 @@ In short stories, the climax will take place over one intense scene and its afte
 
 - How many scenes will the climax span?
 
-### Testing the Inner Flaw
-
-The climax of the story should be the ultimate test for the protagonist. The test should reveal their true nature by challenging their internal conflicts (either internal or environmental). The protagonist should be forced to change and evolve.
-
-- What is the protagonist's true nature?
-
-- How is their true nature tested?
-
-- How will the protagonist evolve after this test?
-
 ### Managing Subplots
 
 Every major subplot should be resolved in its own scene mirroring a mini-climax, this scene shouldn't answer the central story question and isn't the main climax of the novel. Although, it should further complicate story events and further drive the story to its conclusion.
@@ -555,6 +567,8 @@ Every major subplot should be resolved in its own scene mirroring a mini-climax,
 - How do each of those conclusions impact the main story?
 
 ### Constructing the Climax
+
+The climax is designed to answer the test from [testing the inner flaw](#testing-the-inner-flaw). Use your answers from this section to construct the climax.
 
 1. **The choice**: during their big showdown, the protagonist is presented with a moral choice by the antagonist. There should be no attractive or easy solution.
 
