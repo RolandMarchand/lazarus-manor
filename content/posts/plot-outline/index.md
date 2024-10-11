@@ -52,26 +52,6 @@ In between your major scenes, couple as many [sequel](#sequel) and [conflict sce
 
 ## Story Plan
 
-### Foundations
-
-- Who is the protagonist?
-
-- Who is the antagonist?
-
-- What is their conflict?
-
-### Testing the Inner Flaw
-
-The test is the protagonist's inner conflict central to the whole story. It cannot be ignored by the protagonist and must be answered in the [climax](#climax). This challenge must cause the protagonist great hardship and require him to do sacrifices. The test should make victory seem nearly impossible and victory should be surprising to the reader.
-
-- What is the protagonist's inner flaw?
-
-- How does the antagonist test the protagonist's true nature?
-
-- What must the protagonist sacrifice to resolve the test?
-
-- How will the protagonist evolve after this test?
-
 ### SPOOC
 
 SPOOC is a 2 sentence template to test your story's fundamentals, to assure yourself that it is sturdy enough to last a book. The first sentence establishes the situation, and the second turns the central story goal into a question.
@@ -99,6 +79,18 @@ SPOOC stands for:
 - Opponent: Sauron
 
 - Climax: tempts Frodo with the ring's power, risking the Middle-earth's fate?
+
+### Testing the Inner Flaw
+
+The test is the protagonist's inner conflict central to the whole story. It cannot be ignored by the protagonist and must be answered in the [climax](#climax). This challenge must cause the protagonist great hardship and require him to do sacrifices. The test should make victory seem nearly impossible and victory should be surprising to the reader.
+
+- What is the protagonist's inner flaw?
+
+- How does the antagonist test the protagonist's true nature?
+
+- What must the protagonist sacrifice to resolve the test?
+
+- How will the protagonist evolve after this test?
 
 ### Length
 
