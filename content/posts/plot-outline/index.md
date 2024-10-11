@@ -78,6 +78,24 @@ SPOOC stands for:
 
 - Climax: tempts Frodo with the ring's power, risking the Middle-earth's fate?
 
+### Length
+
+- **General**: 60k - 100k words.
+
+- **Urban Fantasy**: 70k - 85k words.
+
+- **Traditional High Fantasy**: < 95k words.
+
+- **Experienced**: Possible > 100k words.
+
+- **Novellas**: 25k - 50k words.
+
+- **Novelettes**: 15k - 30k words.
+
+- **short stories**: 2k - 10k words.
+
+- **Short shorts**: < 1.5k words.
+
 ## Opening Scene
 
 These questions must be answered in the first 30 pages of your novel. Approximately a third of these can be answered in just a few paragraphs.
@@ -148,23 +166,7 @@ A story is divided into scenes. There are two kinds of scenes: [conflict scenes]
 **Warning!** Do not confuse scenes in a novel with scenes in film. In motion pictures, scenes consist of single locations or continuous shots/periods of time, while in novels, a scene is a narrative unit consisting of a story goal, a twist, and a resolution.
 {{< /alert >}}
 
-### Length
-
-- **General**: 60k - 100k words.
-
-- **Urban Fantasy**: 70k - 85k words.
-
-- **Traditional High Fantasy**: < 95k words.
-
-- **Experienced**: Possible > 100k words.
-
-- **Novellas**: 25k - 50k words.
-
-- **Novelettes**: 15k - 30k words.
-
-- **short stories**: 2k - 10k words.
-
-- **Short shorts**: < 1.5k words.
+### Length of the Scene
 
 ### Characters
 
