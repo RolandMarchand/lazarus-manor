@@ -57,15 +57,27 @@ This issue of definitions is closely related to the [Sorites Paradox](https://en
 
 >If a heap is reduced by a single grain at a time, the question is at what exact point it ceases to be considered a heap?
 
-Since there is not yet a universal definition of life, we cannot consider all fetuses to be alive. Thus, the point that abortion is immoral because fetuses are alive is invalid.
+If a single unfertilized egg is not a human life, but a born child is, at what exact point the fetus can be considered a human life? Since there is not yet a universal definition of life, we cannot consider all fetuses to be alive. Thus, the point that abortion is immoral because fetuses are alive is invalid.
 
 For more information on the Sorites Paradox, I recommend this edutainment video by VSauce:
 
 {{< youtubeLite id="fXW-QjBsruE" label="Do Chairs Exist? Exploration of the Sorites Paradox." >}}
 
-<!-- ### 2. **Moral and Ethical Beliefs** -->
-<!--    - Many anti-abortion supporters hold strong ethical or religious beliefs about the sanctity of life. For them, terminating a pregnancy is viewed as morally wrong, and they believe that ending a life should only occur in extreme cases (or not at all). -->
-<!--    - Some anti-abortion advocates also argue that permitting abortion normalizes the idea of ending a life for personal convenience or comfort, which they believe has negative implications for society’s views on life in general. -->
+### 2. Religious Beliefs
+
+>Many anti-abortion supporters hold strong religious beliefs about the sanctity of life. For them, terminating a pregnancy is viewed as morally wrong, and they believe that ending a life should only occur in extreme cases (or not at all).
+
+When approaching a philosophical debate, it is important to remain secular. This demands prioritizing reason, empirical evidence, and human experience over religious doctrines or spiritual beliefs. But it does **not** mean disregarding or denying religion, or claiming moral superiority.
+
+Religious texts and theology can be used in secular debates with great results, as long reason is prioritized.
+
+[give example of theology used effectively]
+
+Even without theological involvement, results of secular debates often align with religious beliefs, they are not incompatible.
+
+[give example of a debate that aligns with religious beliefs]
+
+This said, claiming that abortion is wrong only by referring to biblical passages such as Exodus 20:13 "*you shall not murder*," or Psalm 139:13-16 "*for you created my inmost being; you knit me together in my mother’s womb*," does not constitute a valid argument as this is considered an [appeal to authority](https://en.wikipedia.org/wiki/Argument_from_authority) and faith. And as such, it is not a valid argument.
 
 <!-- ### 3. **Concern for Potential Harm to Women** -->
 <!--    - anti-abortion advocates sometimes argue that abortion can have negative physical and emotional effects on people who undergo it. They cite studies or personal accounts of individuals who regret their abortions or experience lasting psychological impacts, like grief or guilt. -->
@@ -84,7 +96,7 @@ For more information on the Sorites Paradox, I recommend this edutainment video 
 <!--    - This argument ties into broader concerns that legal abortion may devalue life by making it acceptable to end a life based on circumstances or convenience. -->
 
 
-<!-- 2. This is a religious bias, it does not prove or disprove anything about abortion -->
+
 <!-- 3. Giving birth is also a very difficult process that has a mental and physical toll, and it can also be dangerous. If abortion is bad because of the risk to women, then giving birth is bad too. This point does not disprove the importance of abortion -->
 <!-- 4. This is true that adoption is good, but adoption and abortions can coexist. Adoption does not disprove the value of abortion -->
 <!-- 5. Abortions are often needed when the woman is too young to take good care of the infant or when there are complications which could lead to the death of the mother. Pregnant women are vulnerable members of society, too. Since this argument contradicts itself, it is not valid. -->
