@@ -39,8 +39,6 @@ This article is **not targeting or attacking** any specific individuals or belie
 
 ### 1. Right to Life for the Unborn
 
-[edited]
-
 >The core of the anti-abortion position is the belief that human life begins at conception and that the unborn child is a distinct individual with a right to life. This belief is based on the idea that, from the moment of conception, the fetus has its own DNA and the potential to develop into a full-grown human.
 >
 >Anti-abortion advocates argue that society has a moral responsibility to protect human lives.
@@ -73,13 +71,11 @@ For more information on the Sorites Paradox, I recommend this edutainment video 
 
 When approaching a philosophical debate, it is important to remain secular. This demands prioritizing reason, empirical evidence, and human experience over religious doctrines or spiritual beliefs. But it does **not** mean disregarding or denying religion, or claiming moral superiority.
 
-Religious texts and theology can be used in secular debates with great results, as long reason as is prioritized.
+Religious texts and theology can be used in secular debates with great results, as long reason as is prioritized. But even without theological involvement, results of secular debates often align with religious beliefs, they are not incompatible.
 
-[give example of theology used effectively]
+For example Dr. Martin Luther King Jr. used Christian theology to advocate for equality and justice in [Letter from Birmingham Jail](https://letterfromjail.com/):
 
-Even without theological involvement, results of secular debates often align with religious beliefs, they are not incompatible.
-
-For example Dr. Martin Luther King Jr. used Christian theology to advocate for equality and justice
+>I am in Birmingham because injustice is here. Just as the prophets of the eighth century B.C. left their villages and carried their “thus saith the Lord” far beyond the boundaries of their home towns, and just as the Apostle Paul left his village of Tarsus and carried the gospel of Jesus Christ to the far corners of the Greco Roman world, so am I compelled to carry the gospel of freedom beyond my own home town.
 
 This said, claiming that abortion is wrong only by referring to biblical passages such as Exodus 20:13 "*you shall not murder*," or Psalm 139:13-16 "*for you created my inmost being; you knit me together in my mother’s womb*," does not constitute a valid argument as this is considered an [appeal to authority](https://en.wikipedia.org/wiki/Argument_from_authority) and faith. Reason can be used to elaborate on those quotes, but as it stands, appeals to authority are not a valid argument.
 
@@ -87,13 +83,64 @@ This said, claiming that abortion is wrong only by referring to biblical passage
 
 >Anti-abortion advocates sometimes argue that abortion can have negative physical and emotional effects on people who undergo it. They cite studies or personal accounts of individuals who regret their abortions or experience lasting psychological impacts, like grief or guilt.
 
-It is true that abortions have significant physically and emotionally tolls, even if most women who have an abortion are not more likely than those denied the procedure to have depression, anxiety, or suicidal ideation[^1]. Abortions are also medical procedures, and all procedures include risks of complications, but research shows that abortions given by professionals are generally considered very-safe with complications occurring in less than 2% of cases. [source needed]
+It is true that abortions have significant physically and emotionally tolls, even if most women who have an abortion are not more likely than those denied the procedure to have depression, anxiety, or suicidal ideation.[^1] Abortions are also medical procedures, and all procedures include risks of complications, but research shows that safe abortions carried out using a method recommended by the World Health Organization are considered very-safe with deaths only occurring in 0.001% of cases.[^2]
 
-Regardless of the numbers presented in those studies, this point is invalid for another reason: it is self-contradicting. Giving birth is also physically and emotionally tolling, and the risks of complications are rather high. [source needed]
+Regardless of the numbers presented in those studies, the moral claim from this argument is self-contradicting because giving birth is also physically and emotionally tolling, and the risks of complications are high. The World Health Organization stated that "every day in 2020, almost 800 women died from preventable causes related to pregnancy and childbirth."[^3]
 
-[expand on how giving birth is physically and emotionally demanding]
+This is a comprehensive list of common mental and physical struggles women may experience during pregnancy, childbirth, and the postpartum period:
 
-If abortions are immoral because of the physical and mental impact on those who have one, then giving birth is immoral. Giving birth is not seen as immoral according to either anti-abortion and anti-anti-abortion beliefs, so this point is self-contradicting.
+- **Mental and Emotional Struggles**
+
+  - **During Pregnancy**
+    - Anxiety and Worry
+    - Depression (Perinatal Depression)
+    - Mood Swings
+    - Body Image and Self-Esteem Issues
+    - Sleep Disruptions and Resulting Fatigue
+
+  - **During Childbirth**
+    - Fear and Anxiety about Labor and Delivery
+    - Vulnerability and Emotional Sensitivity
+
+  - **After Pregnancy (Postpartum)**
+    - Postpartum Depression
+    - Anxiety and Postpartum Anxiety Disorders
+    - Emotional Attachment and Bonding Challenges
+    - Guilt and Self-Doubt
+    - Feelings of Isolation and Loneliness
+    - Stress from Role Changes and Responsibilities
+    - Pressure to Meet Societal or Personal Expectations
+
+- **Physical Struggles**
+
+  - **During Pregnancy**
+    - Nausea and Vomiting (Morning Sickness)
+    - Fatigue
+    - Body Changes and Weight Gain
+    - Back Pain and Joint Pain
+    - Swelling (Edema)
+    - Shortness of Breath
+    - Digestive Issues (Heartburn, Constipation)
+    - Varicose Veins and Hemorrhoids
+    - Gestational Diabetes and High Blood Pressure
+    - Sleep Discomfort
+
+ - **During Childbirth**
+    - Labor Pain and Discomfort
+    - Exhaustion from Labor
+    - Risk of Medical Complications
+
+  - **After Pregnancy (Postpartum)**
+    - Postpartum Recovery Pain
+    - Lactation Discomfort
+    - Hormonal Changes and Hair Loss
+    - Fatigue and Sleep Deprivation
+    - Increased Risk of Infections
+    - Urinary Incontinence and Pelvic Floor Weakness
+    - Diastasis Recti and Abdominal Weakness
+    - Challenges with Sexual Health and Intimacy
+
+If abortions are immoral because of the physical and mental impact on those who undergo the procedure, then giving birth is also immoral for the same reason. But since giving birth is not seen as immoral according to either anti-abortion and anti-anti-abortion beliefs, this point is self-contradicting.
 
 ### 4. Support for Alternatives like Adoption
 
@@ -103,11 +150,11 @@ If abortions are immoral because of the physical and mental impact on those who 
 
 It is true that adoption gives children a chance to live potentially fulfilling lives and that families unable to conceive greatly benefit from it.
 
-It is also well known that adoption services are underfunded[source needed] and that the adoption process for qualified families is lengthy, difficult, and expensive[source needed]. This difficult hurtle stops many families from adopting and orphans from being adopted. Further funding to the adoption sector could greatly improve the lives of both families and orphans.
+It is also well known that adoption services are underfunded and that the adoption process for qualified families is lengthy, difficult, and expensive. This difficult hurtle stops many families from adopting and orphans from being adopted. Further funding to the adoption sector could greatly improve the lives of both families and orphans.[^4]
 
 But regardless, adoption and abortion can coexist; there is nothing stopping orphanages from existing along with abortion clinics.
 
-There will be orphans of deceased or otherwise unavailable parents regardless of the popularity of abortions, and gynecologists can still offer abortions regardless of the popularity of the service is and the amount of orphans.
+There will be orphans of deceased or otherwise unavailable parents regardless of the popularity of abortions, and gynecologists can still offer abortion services regardless of the success of adoption centers.
 
 This point is a false dilemma, and thus is invalid.
 
@@ -117,7 +164,7 @@ This point is a false dilemma, and thus is invalid.
 >
 >For anti-abortion advocates, this means treating the unborn with the same respect and care as other vulnerable groups, such as the elderly or disabled.
 
-Anti-abortion and anti-anti-abortion beliefs both agree on society's obligation to protect its most vulnerable members, and children, unborn or not, are included in that definition. But that definition also includes pregnant women who are more vulnerable to illnesses and experience physical limitations due to pregnancy, and thus less independent.
+Anti-abortion and anti-anti-abortion beliefs both agree on society's obligation to protect its most vulnerable members such as children and unborn. Pregnant women are also considered vulnerable members of society due to their health risks, mental health concerns, economic disadvantages, reliance on the support and resources of others, and societal norms.
 
 [research and describe how abortions can protect vulnerable lives of pregnant women].
 
@@ -132,3 +179,6 @@ Anti-abortion and anti-anti-abortion beliefs both agree on society's obligation 
 [The reality is that nearly nobody celebrates abortions as an enjoyable event. Also, death is already a very important part of our culture, it's a crucial story telling device in nearly all religious text, myths and legends. Like the death of Christ, for example. Burials and other funeral ceremonies are also very important to our culture, and one could argue that birthdays are also related to the "culture of death." Since we already a celebrated culture of death and abortions aren't part of that culture, this argument is false.]
 
 [^1]: https://www.ansirh.org/research/ongoing/turnaway-study
+[^2]: https://www.who.int/news-room/fact-sheets/detail/abortion
+[^3]: https://www.who.int/news-room/fact-sheets/detail/maternal-mortality
+[^4]: https://www.jec.senate.gov/public/index.cfm/republicans/2020/9/a-place-to-call-home-improving-foster-care-and-adoption-policy-to-give-more-children-a-stable-family
