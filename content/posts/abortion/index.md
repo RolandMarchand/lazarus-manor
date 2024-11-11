@@ -29,9 +29,9 @@ Instead, these terms will be used:
 
 This is an article proving six common anti-abortion arguments to be either fallacies, self-contradictory, or false.
 
-This article will **only consider morality**, even if this debate is inherently political and often encompasses policy. Since policy attempts to reach a compromise while considering more factors than morality, such as economic factors, this article will not consider policy.
+This article will **only consider morality**, even if this debate is inherently political and often encompasses policy. Since policy attempts to reach a compromise while considering other factors than morality, such as economic factors, this article will not consider policy.
 
-Despite the article leaning toward an anti-anti-abortion stance, it does not make any such moral claim, as this is beyond the scope of this essay.
+Despite this article leaning toward an anti-anti-abortion stance, it does not make any such moral claim, as it is beyond the scope of this essay.
 
 This article is **not targeting or attacking** any specific individuals or beliefs. This blog is a safe and secular space for all individuals and ideas.
 
@@ -158,15 +158,29 @@ There will be orphans of deceased or otherwise unavailable parents regardless of
 
 This point is a false dilemma, and thus is invalid.
 
+#### 4b. Choosing Between Adoption and Abortion
+
+In regards to the moral choice of a pregnant woman contemplating both abortion and adoption, it is impossible to determine which option is the most moral.
+
+This situation falls under the concept of **moral incommensurability**, where two options uphold different moral values. In this case, abortion promotes personal autonomy, bodily integrity, choice of reproductive right, health and well-being, and gender quality while adoption promotes the value of a potential life, family, societal contributions, and child welfare.
+
+Since these different values do not share a common moral framework for comparison, they are considered incommensurable, and as such it is impossible to prove which is morally superior.
+
+This dilemma is non-conclusive.
+
 ### 5. Protecting and Valuing Vulnerable Lives
 
 >From a philosophical perspective, anti-abortion supporters often believe that society has an obligation to protect its most vulnerable members, including the unborn. This belief stems from the idea that one’s value is intrinsic and not dependent on development stage, viability, or circumstance.
 >
 >For anti-abortion advocates, this means treating the unborn with the same respect and care as other vulnerable groups, such as the elderly or disabled.
 
-Anti-abortion and anti-anti-abortion beliefs both agree on society's obligation to protect its most vulnerable members such as children and unborn. Pregnant women are also considered vulnerable members of society due to their health risks, mental health concerns, economic disadvantages, reliance on the support and resources of others, and societal norms.
+Anti-abortion and anti-anti-abortion beliefs both agree on society's obligation to protect its most vulnerable members such as children and the unborn, but pregnant women are also considered vulnerable members of society due to their health risks, mental health concerns, economic disadvantages, reliance on the support and resources of others, and societal norms.
 
-[research and describe how abortions can protect vulnerable lives of pregnant women].
+During certain medical complications, abortions can be necessary in order to save the lives of pregnant women.[^3] Such an example of a medical condition are ectopic pregnancies which occur when the fetus develops outside the uterus, such as in the fallopian tubes. When untreated, this condition can cause internal bleeding and death. In the US, 2 out of 100 pregnancies are ectopic.[^5] Pregancy could also contribute to mental health issues, such as post traumatic stress disorder (PTSD) which affect pregnant women more than non-pregnant women (6-8% vs. 4-5%).[^6]
+
+[it has been explained how women are vulnerable members of society, explain how they might need abortion]
+
+[explore the concept of moral prioritization, which is more valuable, the baby or the parent]
 
 [Abortions are often needed when the woman is too young to take good care of the infant or when there are complications which could lead to the death of the mother. Pregnant women are vulnerable members of society, too. Since this argument contradicts itself, it is not valid.]
 
@@ -182,3 +196,5 @@ Anti-abortion and anti-anti-abortion beliefs both agree on society's obligation 
 [^2]: https://www.who.int/news-room/fact-sheets/detail/abortion
 [^3]: https://www.who.int/news-room/fact-sheets/detail/maternal-mortality
 [^4]: https://www.jec.senate.gov/public/index.cfm/republicans/2020/9/a-place-to-call-home-improving-foster-care-and-adoption-policy-to-give-more-children-a-stable-family
+[^5]: https://www.plannedparenthood.org/learn/pregnancy/ectopic-pregnancy
+[^6]: https://pubmed.ncbi.nlm.nih.gov/20482290/
