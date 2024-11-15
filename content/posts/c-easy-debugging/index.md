@@ -11,6 +11,7 @@ tags:
     - C++
     - Debugging
     - Programming
+    - Tutorial
 authors:
     - lazarus-overlook
 ---
