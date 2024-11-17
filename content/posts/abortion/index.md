@@ -22,8 +22,8 @@ This article won't mention the commonly used terms *pro-choice* and *pro-life,* 
 
 Instead, these terms will be used:
 
-- **anti-abortion**: the belief that abortions are inherently immoral.
-- **anti-anti-abortion**: the belief that abortions are not inherently immoral.
+- **anti-abortion**: encompasses all abortion-related beliefs considering it inherently immoral.
+- **anti-anti-abortion**: encompasses all abortion-related beliefs *not* considering it inherently immoral.
 
 ## Disclaimer
 
@@ -162,7 +162,7 @@ This point is a false dilemma, and thus is invalid.
 
 In regards to the moral choice of a pregnant woman contemplating both abortion and adoption, it is impossible to determine which option is the most moral.
 
-This situation falls under the concept of **moral incommensurability**, where two options uphold different moral values. In this case, abortion promotes personal autonomy, bodily integrity, choice of reproductive right, health and well-being, and gender quality while adoption promotes the value of a potential life, family, societal contributions, and child welfare.
+This situation falls under the concept of **moral incommensurability**, where two options uphold different moral values. In this case, abortion promotes personal autonomy, bodily integrity, choice of reproductive right, health and well-being, and gender equality while adoption promotes the value of a potential life, family, societal contributions, and child welfare.
 
 Since these different values do not share a common moral framework for comparison, they are considered incommensurable, and as such it is impossible to prove which is morally superior.
 
@@ -174,15 +174,21 @@ This dilemma is non-conclusive.
 >
 >For anti-abortion advocates, this means treating the unborn with the same respect and care as other vulnerable groups, such as the elderly or disabled.
 
-Anti-abortion and anti-anti-abortion beliefs both agree on society's obligation to protect its most vulnerable members such as children and the unborn, but pregnant women are also considered vulnerable members of society due to their health risks, mental health concerns, economic disadvantages, reliance on the support and resources of others, and societal norms.
+Anti-abortion and anti-anti-abortion beliefs both agree on society's obligation to protect its most vulnerable members such as the elderly or disabled. But according to both categories of beliefs, pregnant women are also considered to be vulnerable members due to their health risks[^10], mental health concerns[^6], or economic disadvantages[^9].
 
-During certain medical complications, abortions can be necessary in order to save the lives of pregnant women.[^3] Such an example of a medical condition are ectopic pregnancies which occur when the fetus develops outside the uterus, such as in the fallopian tubes. When untreated, this condition can cause internal bleeding and death. In the US, 2 out of 100 pregnancies are ectopic.[^5] Pregancy could also contribute to mental health issues, such as post traumatic stress disorder (PTSD) which affect pregnant women more than non-pregnant women (6-8% vs. 4-5%).[^6]
+Pregnant women are more susceptible to health complications such as high blood pressure (hypertension), gestational diabetes, infections, preeclampsia, preterm labor, nausea, or anemia.[^10]
 
-[it has been explained how women are vulnerable members of society, explain how they might need abortion]
+Pregnancy can also contribute to mental health issues, such as post traumatic stress disorder (PTSD) which affect pregnant women more than non-pregnant women (6-8% vs. 4-5%).[^6]
 
-[explore the concept of moral prioritization, which is more valuable, the baby or the parent]
+Pregnancy also has a significant effect on finances. A study found significant financial challenges for women during and after pregnancy[^9]:
 
-[Abortions are often needed when the woman is too young to take good care of the infant or when there are complications which could lead to the death of the mother. Pregnant women are vulnerable members of society, too. Since this argument contradicts itself, it is not valid.]
+- 24% of women reported unmet healthcare needs due to costs and 60% faced affordability concerns about medical bills and debt.
+- Over half reported difficulty covering basic expenses, like housing and bills.
+- Disruptions in insurance coverage postpartum increase risks of inadequate care and even privately insured women often face high out-of-pocket costs.
+
+This comes into play when pregnant women experience medical complications requiring abortions.[^3] Such an example of a medical condition are ectopic pregnancies which occur when the fetus develops outside the uterus, such as in the fallopian tubes. When untreated, this condition can cause internal bleeding and death. In the US, 2 out of 100 pregnancies are ectopic.[^5]
+
+Since pregnant women are vulnerable and are owed the same moral duty to be protected as the unborn, this point is self-contradictory.
 
 ### 6. Concerns About a "Culture of Death"
 
@@ -190,7 +196,35 @@ During certain medical complications, abortions can be necessary in order to sav
 >
 >This argument ties into broader concerns that legal abortion may devalue life by making it acceptable to end a life based on circumstances or convenience.
 
-[The reality is that nearly nobody celebrates abortions as an enjoyable event. Also, death is already a very important part of our culture, it's a crucial story telling device in nearly all religious text, myths and legends. Like the death of Christ, for example. Burials and other funeral ceremonies are also very important to our culture, and one could argue that birthdays are also related to the "culture of death." Since we already a celebrated culture of death and abortions aren't part of that culture, this argument is false.]
+{{< alert "circle-info" >}}
+**Note**: for the sake of argument, "human life" in this section refers to humans after birth. This is by no means a universal definition, of which none exist. To learn more about this topic, see [section 1](#1-right-to-life-for-the-unborn).
+{{< /alert >}}
+
+It is true that certain societal systems or structures can lead to the devaluation of human life. For instance, war is seen as an essential part of modern civilization and is often described as "necessary evil". Other examples include popular industries like tobacco and alcohol, which contribute to long-term health risks. Cars are seen as a crucial part of many societies, yet they caused more than 40000 deaths in the US in 2022 alone. [^7]
+
+In regards to abortion procedures, by definition, they cannot directly devalue the lives of those already born. This is evidenced in several ways: No legal framework has ever suggested that permitting abortion diminishes the rights or protections of living persons. In countries where abortion is legal, public health metrics and mortality statistics remain equally significant - deaths from accidents or diseases are not treated with less gravity. Moreover, these societies continue to invest heavily in life-saving initiatives, from healthcare improvements to accident prevention programs. The resources allocated to protecting and preserving life have not diminished with the legalization of abortion.
+
+Therefore, the claim that abortion access somehow diminishes the value of existing human life lacks both logical and empirical support - there is simply no demonstrable connection between the two.
+
+Since the influence of abortion on the value of human life is difficult to measure, claiming a cause-and-effect relationship without proof leads to a False Cause fallacy. Such an argument assumes a connection without sufficient evidence, making it invalid.
+
+#### 6b. Celebrating a "Culture of Death"
+
+Generally, abortions are not seen as enjoyable events or worthy of celebration. They are most often considered a medical procedure for those in need.
+
+However, despite this, Western cultures already celebrate death. For example, funeral ceremonies, such as burials, are considered an important aspect of these cultures. It could also be argued that birthdays indirectly celebrate death, as they mark the time we have spent alive and stop being celebrated once we are dead.
+
+Death is also a crucial storytelling element in folklore. Important deaths from the most significant stories and myths include King Arthur, Darth Vader, Achilles, Oedipus, Socrates, and Alexander Hamilton only to name a few.
+
+But arguably, the most significant death in Western culture is that of Jesus Christ, the Savior of Christianity, a religion centered around His death. This event is commemorated by both Christians and non-Christians during Holy Week, which includes Good Friday and Easter.
+
+In the United States, death of its citizens is commemorated in many ways, such as with memorials for soldiers who perished in wars[^8] (see figure 1).
+
+![View of names etched into the granite face of the Vietnam Veterans Memorial](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vietnam_Veterans_Memorial_reflection_in_low_light.jpg/1280px-Vietnam_Veterans_Memorial_reflection_in_low_light.jpg "View of names etched into the granite face of the Vietnam Veterans Memorial, by National Park Service - https://www.flickr.com/photos/42600860@N02/51971811478/")
+
+Despite all these celebrations of death in culture, abortion has no such holiday. It isn't a common trope in stories, even modern ones, and abortions are often not celebrated by the people who undergo them, unlike burials.
+
+Since we already have a culture of death, and abortion is not part of it, this point is false.
 
 [^1]: https://www.ansirh.org/research/ongoing/turnaway-study
 [^2]: https://www.who.int/news-room/fact-sheets/detail/abortion
@@ -198,3 +232,7 @@ During certain medical complications, abortions can be necessary in order to sav
 [^4]: https://www.jec.senate.gov/public/index.cfm/republicans/2020/9/a-place-to-call-home-improving-foster-care-and-adoption-policy-to-give-more-children-a-stable-family
 [^5]: https://www.plannedparenthood.org/learn/pregnancy/ectopic-pregnancy
 [^6]: https://pubmed.ncbi.nlm.nih.gov/20482290/
+[^7]: https://www.nhtsa.gov/press-releases/traffic-crash-death-estimates-2022
+[^8]: https://www.abmc.gov/cemeteries-memorials
+[^9]: https://ihpi.umich.edu/news/study-financial-hardship-prevalent-during-and-after-pregnancy
+[^10]: https://www.nichd.nih.gov/health/topics/pregnancy/conditioninfo/complications
