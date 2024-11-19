@@ -1,36 +1,32 @@
 ---
-summary: Nonpartisan argumentative analysis essay against six common anti-abortion arguments.
-description: I'm Lazarus Overlook, an online 
+title: About Me
+description: I'm Lazarus Overlook, a furry programmer and nerd of all things artistic. This is my 'about' page where you can learn about who I am, what I like, etc. Welcome!
 showDate: false
 showReadingTime: false
 showWordCount: false
-draft: true
-categories:
-    - Philosophy
-tags:
-    - Health
-    - Religion
-    - Culture
-    - Essay
+authors:
+    - lazarus-overlook
 ---
 
-# hello
+My name is Lazarus Overlook, I am a furry on the internet who likes to talk about art, software, and other stuff. I am a computer science student, game and software developer, and a hobbyist fiction and non-fiction writer.
+
+## Gallery
 
 {{< gallery >}}
-	<img src="badge.webp" class="grid-w50 md:grid-w33">
-	<img src="cultist.webp" class="grid-w50 md:grid-w33">
-	<img src="deer.webp" class="grid-w50 md:grid-w33">
-	<img src="disco.webp" class="grid-w50 md:grid-w33">
-	<img src="nolongeranimals.webp" class="grid-w50 md:grid-w33">
-	<img src="ref.webp" class="grid-w50 md:grid-w33">
-	<img src="sheep.webp" class="grid-w50 md:grid-w33">
-	<img src="shh.webp" class="grid-w50 md:grid-w33">
+	<img src="badge.webp" alt="badge of Lazarus Overlook by kislyception" class="grid-w50 md:grid-w33">
+	<img src="cultist.webp" alt="'Cultist Simulator' fanart of Lazarus Overlook by Wasteroforange" class="grid-w50 md:grid-w33">
+	<img src="disco.webp" alt="portrait of Lazarus Overlook by Wasteroforange" class="grid-w50 md:grid-w33">
+	<img src="shh.webp" alt="artwork of Lazarus Overlook by Zloe" class="grid-w50 md:grid-w33">
+	<img src="sheep.webp" alt="artwork of Lazarus Overlook as a sheep by Zloe" class="grid-w50 md:grid-w33">
+	<img src="nolongeranimals.webp" alt="artwork of Lazarus Overlook by Nolongeranimals" class="grid-w50 md:grid-w33">
+	<img src="ref.webp" alt="reference sheet of Lazarus Overlook by Zloe" class="grid-w50 md:grid-w33">
+	<img src="pixel-badge.webp" alt="pixelated badge of Lazarus Overlook by LCSkeleton" class="grid-w50 md:grid-w33">
 {{< /gallery >}}
 
-# Reference
+## Reference
 
 **Gender:**
-Male
+Male, he/him
 
 **Age:**
 23
@@ -41,8 +37,16 @@ Male
 **Personality:**
 [INFJ](https://www.16personalities.com/infj-personality)
 
-**Identifiers:**
-He/Him, Furry, [Autoromantic](https://lgbtqia.wiki/wiki/Autoromantic), [Polyamorous](https://lgbtqia.wiki/wiki/Polyamorous)
+**Orientation:**
+[Autoromantic](https://lgbtqia.wiki/wiki/Autoromantic), [Polyamorous](https://lgbtqia.wiki/wiki/Polyamorous)
+
+## Physical Description
+
+Lazarus Overlook is a leaf-nosed bat whose primary coat shimmers in deep crimson. Rich rosewood colors his thick neck fluff, eyebrows, and extremities, with distinctive spots of the same hue encircling his left eye. His characteristic leaf nose glows a vivid syracuse orange, matching both his striking eyes, mouth, and the interior of his large ears.
+
+Licorice-colored fur sweeps across his right forearm and left ear, dissolving back into his crimson coat. Throughout this darker fur, target symbols stand out boldly - their rims gleaming orange, their centers a deep licorice, and their bulls-eyes burning crimson.
+
+Though short in stature, Lazarus's sinewy frame exudes resilience. His lean muscles wrap tightly around his thin body, granting him both strength and agility in his movements. He typically dresses in luxury burgundy attire, favoring either a crisp bellhop suit or refined dark academia garments, always complemented by his signature circular glasses.
 
 ## Things I like
 
@@ -94,6 +98,7 @@ He/Him, Furry, [Autoromantic](https://lgbtqia.wiki/wiki/Autoromantic), [Polyamor
 - [The Apparition](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gustave_Moreau_-_l%27Apparition.jpg): "oil on canvas" version, 1876-1877, Gustave Moreau
 - [Deianira](https://upload.wikimedia.org/wikipedia/commons/0/0b/Gustave_Moreau_-_Dejanira_%28Autumn%29_-_84.PB.682_-_J._Paul_Getty_Museum.jpg), Autumn, 1872, Gustave Moreau
 - [The Cyclops](https://upload.wikimedia.org/wikipedia/commons/b/be/Odilon_Redon_-_The_Cyclops%2C_c._1914.jpg), 1898-1914, Odilon Redon
+- [The Smiling Spider](https://uploads6.wikiart.org/images/odilon-redon/the-smiling-spider-1891.jpg), 1887, Odilon Redon
 
 ### Favorite Programming Languages
 - C
