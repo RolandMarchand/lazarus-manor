@@ -3,6 +3,7 @@ title: "Anti-Abortion Refutation: Six Common Arguments"
 summary: Nonpartisan argumentative analysis essay against six common anti-abortion arguments.
 description: Nonpartisan argumentative analysis essay against six common anti-abortion arguments consiting of the definition of life, religious beliefs, health risks, adoption, supporting vulnerable members of society, and the culture of death.
 date: 2024-11-05
+showTableOfContents: true
 image: thumbnail.webp
 draft: true
 categories:
@@ -125,25 +126,23 @@ If abortion is deemed immoral due to its physical and psychological impact, then
 >
 >Many in the anti-abortion movement push for more support for pregnant individuals, such as better access to healthcare, social services, and other resources to help make parenting or adoption a more viable choice.
 
-It is true that adoption gives children a chance to live potentially fulfilling lives and that families unable to conceive greatly benefit from it.
+It is true that adoption offers children opportunities for fulfilling lives while benefiting families unable to conceive naturally.
 
-It is also well known that adoption services are underfunded and that the adoption process for qualified families is lengthy, difficult, and expensive. This difficult hurtle stops many families from adopting and orphans from being adopted. Further funding to the adoption sector could greatly improve the lives of both families and orphans.[^4]
+However, adoption services remain underfunded, and the adoption process for qualified families is often lengthy, complex, and expensive. These obstacles prevent many families from adopting and leave many children without homes. Additional funding for the adoption sector could improve outcomes for both families and children awaiting adoption.[^4]
 
-But regardless, adoption and abortion can coexist; there is nothing stopping orphanages from existing along with abortion clinics.
+There will be orphans of deceased or otherwise unavailable parents regardless of the popularity of abortions, and gynecologists can still offer abortion services regardless of adoption rates.
 
-There will be orphans of deceased or otherwise unavailable parents regardless of the popularity of abortions, and gynecologists can still offer abortion services regardless of the success of adoption centers.
-
-This point is a false dilemma, and thus is invalid.
+This argument presents a false dilemma and thus is invalid.
 
 #### 4b. Choosing Between Adoption and Abortion
 
 In regards to the moral choice of a pregnant woman contemplating both abortion and adoption, it is impossible to determine which option is the most moral.
 
-This situation falls under the concept of **moral incommensurability**, where two options uphold different moral values. In this case, abortion promotes personal autonomy, bodily integrity, choice of reproductive right, health and well-being, and gender equality while adoption promotes the value of a potential life, family, societal contributions, and child welfare.
+This situation is considered **morally incommensurabile**, since two options uphold distinct moral values. Abortion promotes personal autonomy, bodily integrity, reproductive choice, health, and gender equality, while adoption promotes potential life, family bonds, societal contributions, and child welfare.
 
-Since these different values do not share a common moral framework for comparison, they are considered incommensurable, and as such it is impossible to prove which is morally superior.
+These different values lack a shared moral framework for comparison, making them incommensurable. Therefore, proving one option morally superior to the other becomes impossible.
 
-This dilemma is non-conclusive.
+This dilemma remains non-conclusive.
 
 ### 5. Protecting and Valuing Vulnerable Lives
 
@@ -157,13 +156,17 @@ Pregnant women are more susceptible to health complications such as high blood p
 
 Pregnancy can also contribute to mental health issues, such as post traumatic stress disorder (PTSD) which affect pregnant women more than non-pregnant women (6-8% vs. 4-5%).[^6]
 
-Pregnant women also face financial challenges dur and after pregnancy:[^9]
+Pregnant women also face the following financial challenges during and after pregnancy:[^9]
 
 - 24% of women reported unmet healthcare needs due to costs and 60% faced affordability concerns about medical bills and debt.
 - Over half reported difficulty covering basic expenses, like housing and bills.
 - Disruptions in insurance coverage postpartum increase risks of inadequate care and even privately insured women often face high out-of-pocket costs.
 
 This comes into play when pregnant women experience medical complications requiring abortions.[^3] Such an example of a medical condition are ectopic pregnancies which occur when the fetus develops outside the uterus, such as in the fallopian tubes. When untreated, this condition can cause internal bleeding and death. In the US, 2 out of 100 pregnancies are ectopic.[^5]
+
+Concerning the argument that the child's life is more important than the mother, this would imply that the child has moral priority over the mother. This argument cannot be proven due **moral incommensurability** because prioritizing the infant or the mother depends on different moral frameworks with little overlap.
+
+for more information on moral incommensurability, please see [section 4](#4-support-for-alternatives-like-adoption).
 
 Since pregnant women are vulnerable and are owed the same moral duty to be protected as the unborn, this point is self-contradictory.
 
