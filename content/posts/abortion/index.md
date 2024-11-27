@@ -17,51 +17,39 @@ authors:
 ---
 
 ## Terminology
-
-This article won't mention the commonly used terms *pro-choice* and *pro-life,* as they are biased and politically framed.
-
-Instead, these terms will be used:
-
-- **anti-abortion**: encompasses all abortion-related beliefs considering it inherently immoral.
-- **anti-anti-abortion**: encompasses all abortion-related beliefs *not* considering it inherently immoral.
+This article will avoid the commonly used terms *pro-choice* and *pro-life* due to their inherently biased and politically charged nature. Instead, the following terms will be used:
+- **anti-abortion**: encompassing all abortion-related beliefs that consider it inherently immoral
+- **anti-anti-abortion**: encompassing all abortion-related beliefs that do *not* consider it inherently immoral
 
 ## Disclaimer
+This article aims to demonstrate that six common anti-abortion arguments are either fallacious, self-contradictory, or false. The analysis will **only consider morality**, despite the debate's inherently political nature and potential policy implications. While policy seeks compromise by considering various factors beyond morality—such as economic considerations—this essay will not address those aspects.
 
-This is an article proving six common anti-abortion arguments to be either fallacies, self-contradictory, or false.
-
-This article will **only consider morality**, even if this debate is inherently political and often encompasses policy. Since policy attempts to reach a compromise while considering other factors than morality, such as economic factors, this article will not consider policy.
-
-Despite this article leaning toward an anti-anti-abortion stance, it does not make any such moral claim, as it is beyond the scope of this essay.
-
-This article is **not targeting or attacking** any specific individuals or beliefs. This blog is a safe and secular space for all individuals and ideas.
+Although the article leans toward an anti-anti-abortion perspective, it does not make any definitive moral claims, as such assertions lie beyond the scope of this essay. This blog is **not targeting or attacking** any specific individuals or beliefs, but rather provides a safe and secular space for intellectual discourse.
 
 ## Six Arguments
-
 ### 1. Right to Life for the Unborn
-
 >The core of the anti-abortion position is the belief that human life begins at conception and that the unborn child is a distinct individual with a right to life. This belief is based on the idea that, from the moment of conception, the fetus has its own DNA and the potential to develop into a full-grown human.
 >
 >Anti-abortion advocates argue that society has a moral responsibility to protect human lives.
 
-While we can agree that society has a moral responsibility to protect human lives, the right to life hinges on a true and universal definition of life — one that remains undefined as of now.
+While we can agree that society has a moral responsibility to protect human lives, the right to life depends on a true and universal definition of life—a definition that remains undefined.
 
-Despite this, different anti-abortion stances follow different definitions. Common components include a completed strand of DNA and developing cells.
+Different anti-abortion stances propose varying definitions, with common components including a completed DNA strand and developing cells. However, some argue that life involves more than DNA. Additional crucial factors often cited include: the ability to reproduce, maintaining homeostasis, metabolic processes, a life-sustaining cellular structure, and responsiveness to stimuli.
 
-Some would argue that life involves more than DNA. Other crucial factors often include: the ability to reproduce, maintaining homeostasis, metabolic processes, a life-sustaining cellular structure, and reacting to stimuli. None of these definitions can be proven to be true, as each either encompasses what is obviously not life or excludes what is obviously life.
+Critically, none of these definitions can be conclusively proven, as each either encompasses what is obviously not life or excludes what is unquestionably alive. For instance, the claim that life requires reproduction would exclude five-year-old children, who are considered living beings. Conversely, the argument about stimuli response falls short when considering that dead frogs can still react to electrical impulses.
 
-For example, the claim that life requires reproduction excludes five-year-old children who, despite this, are considered life. Another example considers frogs who can still react to electrical stimuli, despite being dead.
+Regarding fetuses, specifically during the first trimester (weeks 0-13), they do not meet several key life criteria: they do not react to stimuli, cannot maintain homeostasis, have limited metabolism, possess a fundamentally different cellular structure compared to children, and lack reproductive organs—even in an immature state. While these observations provide compelling arguments, they remain inconclusive in determining whether first-trimester fetuses are alive.
 
-In regards to those points and fetuses, until the second trimester (weeks 13-26), they do not react to stimuli, are not able to maintain homeostasis, have a limited metabolism, possess a different cellular structure than children, and are not equipped with reproductive organs — not even immature ones. These are valid but inconclusive arguments against first-trimester fetuses being alive.
+The original definition of possessing a completed DNA strand with developing cells is equally problematic, as early corpses also exhibit these attributes without being considered living entities.
 
-In regards to the original definition consisting of possessing a completed strand of DNA with developing cells, early corpses also possess these attributes, but it does not mean that corpses are alive. 
-
-This issue of definitions is closely related to the [Sorites Paradox](https://en.wikipedia.org/wiki/Sorites_paradox):
-
+This definitional challenge closely resembles the [Sorites Paradox](https://en.wikipedia.org/wiki/Sorites_paradox):
 >If a heap is reduced by a single grain at a time, the question is at what exact point it ceases to be considered a heap?
 
-This paradox points out the blurry lines between transitional states like during a fetus' development. If a single unfertilized egg is not a human life, but a born child is, at what exact point the fetus can be considered a human life? Since there is not yet a universal definition of life, we cannot consider all fetuses to be alive. Therefore, the argument that abortion is immoral based on the premise that fetuses are alive remains currently unsubstantiated.
+The paradox highlights the blurry boundaries between transitional states during fetal development. If a single unfertilized egg is not considered human life, and a born child indisputably is, at what precise moment does the fetus become a human life? Given the absence of a universal life definition, we cannot categorically assert that all fetuses are alive.
 
-For more information on the Sorites Paradox, I recommend this edutainment video by VSauce:
+Consequently, the argument that abortion is immoral based on the premise of fetal life remains unsubstantiated. Until a comprehensive, universally accepted definition of life emerges, this fundamental claim lacks conclusive philosophical or scientific grounding.
+
+For more information on the Sorites Paradox, the author recommends the edutainment video by VSauce.
 
 {{< youtubeLite id="fXW-QjBsruE" label="Do Chairs Exist? Exploration of the Sorites Paradox." >}}
 
@@ -69,78 +57,67 @@ For more information on the Sorites Paradox, I recommend this edutainment video 
 
 >Many anti-abortion supporters hold strong religious beliefs about the sanctity of life. For them, terminating a pregnancy is viewed as morally wrong, and they believe that ending a life should only occur in extreme cases (or not at all).
 
-When approaching a philosophical debate, it is important to remain secular. This demands prioritizing reason, empirical evidence, and human experience over religious doctrines or spiritual beliefs. But it does **not** mean disregarding or denying religion, or claiming moral superiority.
+When approaching a philosophical debate, maintaining a secular perspective is crucial. This approach demands prioritizing reason, empirical evidence, and human experience over religious doctrines or spiritual beliefs. However, this does **not** mean disregarding or denying religion, or claiming moral superiority.
 
-Religious texts and theology can be used in secular debates with great results, as long reason as is prioritized. But even without theological involvement, results of secular debates often align with religious beliefs, they are not incompatible.
+Religious texts and theological perspectives can be compelling in secular debates when reason remains the primary framework. Importantly, secular debates and religious beliefs are not inherently incompatible; in fact, they often align despite different foundational approaches.
 
-For example Dr. Martin Luther King Jr. used Christian theology to advocate for equality and justice in [Letter from Birmingham Jail](https://letterfromjail.com/):
+A profound example emerges in Dr. Martin Luther King Jr.'s theological rhetoric in his Letter from Birmingham Jail:[^11]
+>I am in Birmingham because injustice is here. Just as the prophets of the eighth century B.C. left their villages and carried their "thus saith the Lord" far beyond the boundaries of their home towns, and just as the Apostle Paul left his village of Tarsus and carried the gospel of Jesus Christ to the far corners of the Greco Roman world, so am I compelled to carry the gospel of freedom beyond my own home town.
 
->I am in Birmingham because injustice is here. Just as the prophets of the eighth century B.C. left their villages and carried their “thus saith the Lord” far beyond the boundaries of their home towns, and just as the Apostle Paul left his village of Tarsus and carried the gospel of Jesus Christ to the far corners of the Greco Roman world, so am I compelled to carry the gospel of freedom beyond my own home town.
-
-This said, claiming that abortion is wrong only by referring to biblical passages such as Exodus 20:13 "*you shall not murder*," or Psalm 139:13-16 "*for you created my inmost being; you knit me together in my mother’s womb*," does not constitute a valid argument as this is considered an [appeal to authority](https://en.wikipedia.org/wiki/Argument_from_authority) and faith. Reason can be used to elaborate on those quotes, but as it stands, appeals to authority are not a valid argument.
+Nevertheless, claiming abortion's moral status solely by referencing biblical passages—such as Exodus 20:13's "*you shall not murder*" or Psalm 139:13-16's "*for you created my inmost being; you knit me together in my mother's womb*"—constitutes an [appeal to authority](https://en.wikipedia.org/wiki/Argument_from_authority). While these scriptural passages can inspire deeper philosophical reasoning, they cannot independently serve as substantive argumentative proof. Reason must elaborate on such quotes; isolated religious references do not constitute valid philosophical discourse.
 
 ### 3. Concern for Potential Harm to Women
-
 >Anti-abortion advocates sometimes argue that abortion can have negative physical and emotional effects on people who undergo it. They cite studies or personal accounts of individuals who regret their abortions or experience lasting psychological impacts, like grief or guilt.
 
-It is true that abortions have significant physically and emotionally tolls, even if most women who have an abortion are not more likely than those denied the procedure to have depression, anxiety, or suicidal ideation.[^1] Abortions are also medical procedures, and all procedures include risks of complications, but research shows that safe abortions carried out using a method recommended by the World Health Organization are considered very-safe with deaths only occurring in 0.001% of cases.[^2]
+While abortions do indeed carry significant physical and emotional tolls, comprehensive research reveals nuanced perspectives. Most women who undergo the procedure are not more likely to experience depression, anxiety, or suicidal ideation compared to those denied the procedure.[^1] As a medical intervention, abortion—like any procedure—involves potential complications. However, research demonstrates that safe abortions performed using World Health Organization-recommended methods are remarkably low-risk, with mortality occurring in only 0.001% of cases.[^2]
 
-Regardless of the numbers presented in those studies, the moral claim from this argument is self-contradicting because giving birth is also physically and emotionally tolling, and the risks of complications are high. The World Health Organization stated that "every day in 2020, almost 800 women died from preventable causes related to pregnancy and childbirth."[^3]
+Beyond statistical analysis, the moral argument reveals a profound self-contradiction. Childbirth itself is equally—if not more—physically and emotionally demanding, with substantial health risks. The World Health Organization highlights this reality, reporting that "every day in 2020, almost 800 women died from preventable causes related to pregnancy and childbirth."[^3]
 
-This is a comprehensive list of common mental and physical struggles women may experience during pregnancy, childbirth, and the postpartum period:
+A comprehensive examination of women's experiences reveals the multifaceted challenges inherent in pregnancy, childbirth, and the postpartum period:
 
-- **Mental and Emotional Struggles**
+**Mental and Emotional Struggles**
+- **During Pregnancy**
+  - Anxiety and Persistent Worry
+  - Perinatal Depression
+  - Emotional Volatility
+  - Body Image and Self-Esteem Challenges
+  - Disrupted Sleep and Resulting Exhaustion
 
-  - **During Pregnancy**
-    - Anxiety and Worry
-    - Depression (Perinatal Depression)
-    - Mood Swings
-    - Body Image and Self-Esteem Issues
-    - Sleep Disruptions and Resulting Fatigue
+- **During Childbirth**
+  - Profound Anxiety about Labor
+  - Emotional Vulnerability
+  - Overwhelming Sensory and Psychological Intensity
 
-  - **During Childbirth**
-    - Fear and Anxiety about Labor and Delivery
-    - Vulnerability and Emotional Sensitivity
+- **Postpartum Period**
+  - Postpartum Depression
+  - Complex Anxiety Disorders
+  - Emotional Attachment Difficulties
+  - Pervasive Guilt and Self-Doubt
+  - Profound Isolation
+  - Transformative Stress from Role Transitions
+  - Societal and Personal Expectation Pressures
 
-  - **After Pregnancy (Postpartum)**
-    - Postpartum Depression
-    - Anxiety and Postpartum Anxiety Disorders
-    - Emotional Attachment and Bonding Challenges
-    - Guilt and Self-Doubt
-    - Feelings of Isolation and Loneliness
-    - Stress from Role Changes and Responsibilities
-    - Pressure to Meet Societal or Personal Expectations
+**Physical Struggles**
+- **During Pregnancy**
+  - Persistent Nausea and Vomiting
+  - Comprehensive Bodily Transformations
+  - Chronic Fatigue
+  - Musculoskeletal Discomfort
+  - Systemic Physiological Adaptations
+  - Cardiovascular and Metabolic Challenges
 
-- **Physical Struggles**
+- **During Childbirth**
+  - Intense Physical Trauma
+  - Prolonged Exhaustion
+  - High Medical Risks
 
-  - **During Pregnancy**
-    - Nausea and Vomiting (Morning Sickness)
-    - Fatigue
-    - Body Changes and Weight Gain
-    - Back Pain and Joint Pain
-    - Swelling (Edema)
-    - Shortness of Breath
-    - Digestive Issues (Heartburn, Constipation)
-    - Varicose Veins and Hemorrhoids
-    - Gestational Diabetes and High Blood Pressure
-    - Sleep Discomfort
+- **Postpartum Period**
+  - Extended Physical Recovery
+  - Hormonal Disruptions
+  - Systemic Physiological Recalibration
+  - Persistent Physical Vulnerabilities
 
- - **During Childbirth**
-    - Labor Pain and Discomfort
-    - Exhaustion from Labor
-    - Risk of Medical Complications
-
-  - **After Pregnancy (Postpartum)**
-    - Postpartum Recovery Pain
-    - Lactation Discomfort
-    - Hormonal Changes and Hair Loss
-    - Fatigue and Sleep Deprivation
-    - Increased Risk of Infections
-    - Urinary Incontinence and Pelvic Floor Weakness
-    - Diastasis Recti and Abdominal Weakness
-    - Challenges with Sexual Health and Intimacy
-
-If abortions are immoral because of the physical and mental impact on those who undergo the procedure, then giving birth is also immoral for the same reason. But since giving birth is not seen as immoral according to either anti-abortion and anti-anti-abortion beliefs, this point is self-contradicting.
+If abortion is deemed immoral due to its physical and psychological impact, then by identical logic, childbirth must be equally—if not more—morally questionable. Yet neither anti-abortion nor anti-anti-abortion perspectives categorically condemn childbirth, rendering this argument fundamentally self-contradictory.
 
 ### 4. Support for Alternatives like Adoption
 
@@ -180,7 +157,7 @@ Pregnant women are more susceptible to health complications such as high blood p
 
 Pregnancy can also contribute to mental health issues, such as post traumatic stress disorder (PTSD) which affect pregnant women more than non-pregnant women (6-8% vs. 4-5%).[^6]
 
-Pregnancy also has a significant effect on finances. A study found significant financial challenges for women during and after pregnancy[^9]:
+Pregnant women also face financial challenges dur and after pregnancy:[^9]
 
 - 24% of women reported unmet healthcare needs due to costs and 60% faced affordability concerns about medical bills and debt.
 - Over half reported difficulty covering basic expenses, like housing and bills.
@@ -236,3 +213,4 @@ Since we already have a culture of death, and abortion is not part of it, this p
 [^8]: https://www.abmc.gov/cemeteries-memorials
 [^9]: https://ihpi.umich.edu/news/study-financial-hardship-prevalent-during-and-after-pregnancy
 [^10]: https://www.nichd.nih.gov/health/topics/pregnancy/conditioninfo/complications
+[^11]: https://letterfromjail.com/
