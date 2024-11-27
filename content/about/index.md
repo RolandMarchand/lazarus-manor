@@ -92,7 +92,7 @@ Though short in stature, Lazarus's sinewy frame exudes resilience. His lean musc
 - [Watermelon in Easter Hay](https://music.youtube.com/watch?v=j3yE2NAdNKo&si=Y0AGYdD2POctq4U_), by Frank Zappa
 - [Here is my playlist.](https://music.youtube.com/playlist?list=PLkeuL5BvmN-CIk-OFzZ0hFb85-GJ4k1w6&si=wKOGKP7bWDg6DbK6)
 
-### Favorite Paitings
+### Favorite Paintings
 
 - [Isle of the Dead](https://upload.wikimedia.org/wikipedia/commons/d/de/Arnold_B%C3%B6cklin_-_Die_Toteninsel_I_%28Basel%2C_Kunstmuseum%29.jpg): "Basel" version, 1880, Arnold Böcklin
 - [The Apparition](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gustave_Moreau_-_l%27Apparition.jpg): "oil on canvas" version, 1876-1877, Gustave Moreau
