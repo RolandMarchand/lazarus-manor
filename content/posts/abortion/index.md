@@ -171,37 +171,39 @@ Since pregnant women are vulnerable and are owed the same moral duty to be prote
 
 >Some anti-abortion advocates worry that allowing abortion contributes to a "culture of death" where life becomes seen as conditional or disposable. They believe that society should aim to support and protect life at all stages and that abortion undermines this commitment.
 >
->This argument ties into broader concerns that legal abortion may devalue life by making it acceptable to end a life based on circumstances or convenience.
+>This argument ties into broader concerns that legal abortion may devalue life by making it acceptable to end a life based on circumstances.
 
 {{< alert "circle-info" >}}
-**Note**: for the sake of argument, "human life" in this section refers to humans after birth. This is by no means a universal definition, of which none exist. To learn more about this topic, see [section 1](#1-right-to-life-for-the-unborn).
+**Note**: For the sake of argument, "human life" in this section refers to humans after birth. This is not a universal definition. To learn more about this topic, see [section 1](#1-right-to-life-for-the-unborn).
 {{< /alert >}}
 
-It is true that certain societal systems or structures can lead to the devaluation of human life. For instance, war is seen as an essential part of modern civilization and is often described as "necessary evil". Other examples include popular industries like tobacco and alcohol, which contribute to long-term health risks. Cars are seen as a crucial part of many societies, yet they caused more than 40000 deaths in the US in 2022 alone. [^7]
+Certain societal structures can lead to the devaluation of human life.
 
-In regards to abortion procedures, by definition, they cannot directly devalue the lives of those already born. This is evidenced in several ways: No legal framework has ever suggested that permitting abortion diminishes the rights or protections of living persons. In countries where abortion is legal, public health metrics and mortality statistics remain equally significant - deaths from accidents or diseases are not treated with less gravity. Moreover, these societies continue to invest heavily in life-saving initiatives, from healthcare improvements to accident prevention programs. The resources allocated to protecting and preserving life have not diminished with the legalization of abortion.
+For instance, war persists as an assumed part of modern civilization, often described as a "necessary evil." The tobacco and alcohol industries remain legal and popular despite their known health risks such as the former killing up to half of its users.[^12] Automobiles remain central to many societies despite the 40,000 deaths they caused in the US in 2022 alone.[^7]
 
-Therefore, the claim that abortion access somehow diminishes the value of existing human life lacks both logical and empirical support - there is simply no demonstrable connection between the two.
+By contrast, abortion procedures cannot directly devalue the lives of those already born. No legal framework has suggested that permitting abortion diminishes the rights or protections of living persons. Countries with legal abortion maintain robust public health metrics and mortality statistics. These societies continue to invest in life-saving initiatives, from healthcare improvements to accident prevention. The resources devoted to protecting and preserving life have not decreased with abortion legalization.
 
-Since the influence of abortion on the value of human life is difficult to measure, claiming a cause-and-effect relationship without proof leads to a False Cause fallacy. Such an argument assumes a connection without sufficient evidence, making it invalid.
+The claim that abortion access diminishes the value of existing human life lacks logical and empirical support - no demonstrable connection exists between the two.
 
-#### 6b. Celebrating a "Culture of Death"
+Since measuring abortion's influence on the value of human life proves difficult, claiming a cause-effect relationship without evidence creates a False Cause fallacy. Such reasoning assumes connections without sufficient proof.
 
-Generally, abortions are not seen as enjoyable events or worthy of celebration. They are most often considered a medical procedure for those in need.
+#### 6b. Death in Cultural Context
 
-However, despite this, Western cultures already celebrate death. For example, funeral ceremonies, such as burials, are considered an important aspect of these cultures. It could also be argued that birthdays indirectly celebrate death, as they mark the time we have spent alive and stop being celebrated once we are dead.
+Abortions are not treated as celebratory events but rather as medical procedures for those in need.
+
+Western cultures already incorporate death into their ceremonies and traditions. Funeral rites hold cultural importance, while birthdays mark our time alive, ceasing only at death.
 
 Death is also a crucial storytelling element in folklore. Important deaths from the most significant stories and myths include King Arthur, Darth Vader, Achilles, Oedipus, Socrates, and Alexander Hamilton only to name a few.
 
 But arguably, the most significant death in Western culture is that of Jesus Christ, the Savior of Christianity, a religion centered around His death. This event is commemorated by both Christians and non-Christians during Holy Week, which includes Good Friday and Easter.
 
-In the United States, death of its citizens is commemorated in many ways, such as with memorials for soldiers who perished in wars[^8] (see figure 1).
+Outside the realm of fiction, the United States memorializes its citizens' deaths in various ways, particularly through monuments honoring fallen soldiers[^8] (see figure 1).
 
 ![View of names etched into the granite face of the Vietnam Veterans Memorial](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vietnam_Veterans_Memorial_reflection_in_low_light.jpg/1280px-Vietnam_Veterans_Memorial_reflection_in_low_light.jpg "View of names etched into the granite face of the Vietnam Veterans Memorial, by National Park Service - https://www.flickr.com/photos/42600860@N02/51971811478/")
 
-Despite all these celebrations of death in culture, abortion has no such holiday. It isn't a common trope in stories, even modern ones, and abortions are often not celebrated by the people who undergo them, unlike burials.
+Unlike these cultural acknowledgments of death, abortion has no associated holidays or ceremonies. It rarely appears in storytelling, even in contemporary works, and those who undergo the procedure do not typically mark it with celebration.
 
-Since we already have a culture of death, and abortion is not part of it, this point is false.
+Given that Western society already encompasses various cultural expressions of death, while abortion remains separate from these traditions, the "culture of death" argument proves unsupported.
 
 [^1]: https://www.ansirh.org/research/ongoing/turnaway-study
 [^2]: https://www.who.int/news-room/fact-sheets/detail/abortion
@@ -214,3 +216,4 @@ Since we already have a culture of death, and abortion is not part of it, this p
 [^9]: https://ihpi.umich.edu/news/study-financial-hardship-prevalent-during-and-after-pregnancy
 [^10]: https://www.nichd.nih.gov/health/topics/pregnancy/conditioninfo/complications
 [^11]: https://letterfromjail.com/
+[^12]: https://www.who.int/news-room/fact-sheets/detail/tobacco
