@@ -87,9 +87,9 @@ Though short in stature, Lazarus's sinewy frame exudes resilience. His lean musc
 - [Starman](https://music.youtube.com/watch?v=aBKEt3MhNMM&si=xC6srawYZTkDIEKw), by David Bowie
 - [The Milk Carton](https://music.youtube.com/watch?v=vzlgrmieUAs&si=1nTyRYuTj0Mp-pCz), by Madilyn Mei
 - [Soft Fuzzy Man](https://music.youtube.com/watch?v=pjeF8aiQgLU&si=hG6y6Kx2_MX8yVD3), by Lemon Demon
-- [Close to the Edge](https://music.youtube.com/watch?v=gka_km9gb5c&si=54wl8oUGr7oI7ySR), by Yes
+- [10 to 1](https://music.youtube.com/watch?v=k-NcAYItKMo&si=OvFZknQ55u73PieZ), by Burn The Ballroom
 - [Never Love an Anchor](https://music.youtube.com/watch?v=Ld6mj5IsnQQ&si=FcL2gHBUR-jkqmbP), by The Crane Wives
-- [Watermelon in Easter Hay](https://music.youtube.com/watch?v=j3yE2NAdNKo&si=Y0AGYdD2POctq4U_), by Frank Zappa
+- [Under My Skin](https://music.youtube.com/watch?v=K_OU-mZXL04&si=56nzIZ5a3N90wlpc), by Jukebox The Ghost
 - [Here is my playlist.](https://music.youtube.com/playlist?list=PLkeuL5BvmN-CIk-OFzZ0hFb85-GJ4k1w6&si=wKOGKP7bWDg6DbK6)
 
 ### Favorite Paintings
