@@ -23,12 +23,13 @@ This article will avoid the commonly used terms *pro-choice* and *pro-life* due 
 - **anti-anti-abortion**: encompassing all abortion-related beliefs that do *not* consider it inherently immoral
 
 ## Disclaimer
-This article aims to demonstrate that six common anti-abortion arguments are either fallacious, self-contradictory, or false. The analysis will **only consider morality**, despite the debate's inherently political nature and potential policy implications. While policy seeks compromise by considering various factors beyond morality—such as economic considerations—this essay will not address those aspects.
+This article demonstrates that six common anti-abortion arguments are either fallacious, self-contradictory, or false. The analysis will **only consider morality**. Despite politics and policy being inherent to this debate, they are beyond the scope of this article.
 
-Although the article leans toward an anti-anti-abortion perspective, it does not make any definitive moral claims, as such assertions lie beyond the scope of this essay. This blog is **not targeting or attacking** any specific individuals or beliefs, but rather provides a safe and secular space for intellectual discourse.
+Although this article leans toward an anti-anti-abortion stance, it does not make any such moral claims, as this would be beyond the scope of this essay. This blog is **not targeting or attacking** any specific individuals or beliefs. It aims to be a safe and secular space for all individuals and ideas.
 
 ## Six Arguments
-### 1. Right to Life for the Unborn
+### COMPLETED 1. Right to Life for the Unborn
+
 >The core of the anti-abortion position is the belief that human life begins at conception and that the unborn child is a distinct individual with a right to life. This belief is based on the idea that, from the moment of conception, the fetus has its own DNA and the potential to develop into a full-grown human.
 >
 >Anti-abortion advocates argue that society has a moral responsibility to protect human lives.
@@ -120,59 +121,35 @@ A comprehensive examination of women's experiences reveals the multifaceted chal
 
 If abortion is deemed immoral due to its physical and psychological impact, then by identical logic, childbirth must be equally—if not more—morally questionable. Yet neither anti-abortion nor anti-anti-abortion perspectives categorically condemn childbirth, rendering this argument fundamentally self-contradictory.
 
-### 4. Support for Alternatives like Adoption
+### 4. Protecting and Valuing Vulnerable Lives
 
->Anti-abortion supporters often advocate for alternatives to abortion, such as adoption. They argue that choosing adoption gives the child a chance at life while also potentially fulfilling the desires of families who are unable to have children naturally.
->
->Many in the anti-abortion movement push for more support for pregnant individuals, such as better access to healthcare, social services, and other resources to help make parenting or adoption a more viable choice.
-
-It is true that adoption offers children opportunities for fulfilling lives while benefiting families unable to conceive naturally.
-
-However, adoption services remain underfunded, and the adoption process for qualified families is often lengthy, complex, and expensive. These obstacles prevent many families from adopting and leave many children without homes. Additional funding for the adoption sector could improve outcomes for both families and children awaiting adoption.[^4]
-
-There will be orphans of deceased or otherwise unavailable parents regardless of the popularity of abortions, and gynecologists can still offer abortion services regardless of adoption rates.
-
-This argument presents a false dilemma and thus is invalid.
-
-#### 4b. Choosing Between Adoption and Abortion
-
-In regards to the moral choice of a pregnant woman contemplating both abortion and adoption, it is impossible to determine which option is the most moral.
-
-This situation is considered **morally incommensurabile**, since two options uphold distinct moral values. Abortion promotes personal autonomy, bodily integrity, reproductive choice, health, and gender equality, while adoption promotes potential life, family bonds, societal contributions, and child welfare.
-
-These different values lack a shared moral framework for comparison, making them incommensurable. Therefore, proving one option morally superior to the other becomes impossible.
-
-This dilemma remains non-conclusive.
-
-### 5. Protecting and Valuing Vulnerable Lives
-
->From a philosophical perspective, anti-abortion supporters often believe that society has an obligation to protect its most vulnerable members, including the unborn. This belief stems from the idea that one’s value is intrinsic and not dependent on development stage, viability, or circumstance.
+>From a philosophical perspective, anti-abortion supporters often believe that society has an obligation to protect its most vulnerable members, including the unborn. This belief stems from the idea that one's value is intrinsic and not dependent on development stage, viability, or circumstance.
 >
 >For anti-abortion advocates, this means treating the unborn with the same respect and care as other vulnerable groups, such as the elderly or disabled.
 
-Anti-abortion and anti-anti-abortion beliefs both agree on society's obligation to protect its most vulnerable members such as the elderly or disabled. But according to both categories of beliefs, pregnant women are also considered to be vulnerable members due to their health risks[^10], mental health concerns[^6], or economic disadvantages[^9].
+Both anti-abortion and anti-anti-abortion beliefs agree on society's obligation to protect its most vulnerable members, such as the elderly or disabled. According to both categories of beliefs, pregnant women are also considered vulnerable members due to their health risks[^10], mental health concerns[^6], and economic disadvantages[^9].
 
-Pregnant women are more susceptible to health complications such as high blood pressure (hypertension), gestational diabetes, infections, preeclampsia, preterm labor, nausea, or anemia.[^10]
+Pregnant women face significant health complications including high blood pressure (hypertension), gestational diabetes, infections, preeclampsia, preterm labor, nausea, and anemia[^10].
 
-Pregnancy can also contribute to mental health issues, such as post traumatic stress disorder (PTSD) which affect pregnant women more than non-pregnant women (6-8% vs. 4-5%).[^6]
+Some conditions require abortions[^3]. For instance, ectopic pregnancies occur when the fetus develops outside the uterus, such as in the fallopian tubes. When untreated, this condition can cause internal bleeding and death. In the US, 2 out of 100 pregnancies are ectopic[^5].
 
-Pregnant women also face the following financial challenges during and after pregnancy:[^9]
+Pregnancy can also contribute to mental health issues, with post-traumatic stress disorder (PTSD) affecting pregnant women at notably higher rates than non-pregnant women (6-8% versus 4-5%)[^6].
 
-- 24% of women reported unmet healthcare needs due to costs and 60% faced affordability concerns about medical bills and debt.
-- Over half reported difficulty covering basic expenses, like housing and bills.
-- Disruptions in insurance coverage postpartum increase risks of inadequate care and even privately insured women often face high out-of-pocket costs.
+Additionally, pregnant women often face financial challenges during and after pregnancy[^9]:
 
-This comes into play when pregnant women experience medical complications requiring abortions.[^3] Such an example of a medical condition are ectopic pregnancies which occur when the fetus develops outside the uterus, such as in the fallopian tubes. When untreated, this condition can cause internal bleeding and death. In the US, 2 out of 100 pregnancies are ectopic.[^5]
+- 24% report unmet healthcare needs due to costs, and 60% face affordability concerns about medical bills and debt.
+- Over half report difficulty covering basic expenses, like housing and bills.
+- Disruptions in insurance coverage postpartum increase risks of inadequate care, and even privately insured women often face high out-of-pocket costs.
 
-Concerning the argument that the child's life is more important than the mother, this would imply that the child has moral priority over the mother. This argument cannot be proven due **moral incommensurability** because prioritizing the infant or the mother depends on different moral frameworks with little overlap.
+Considering pregnant women as vulnerable is not a controversial idea as accommodations are common: priority on public transit, airports, or in the ER, maternity leave, anti-discrimination laws, and workplace accommodations.
 
-for more information on moral incommensurability, please see [section 4](#4-support-for-alternatives-like-adoption).
+Regardless, some would argue that the child's life has moral priority over the mother's, but it cannot be definitively proven due to **moral incommensurability**. Prioritizing either the infant's or the mother's life depends on different moral frameworks with little overlap. For more information on moral incommensurability, please see [section 4](#4-support-for-alternatives-like-adoption).
 
-Since pregnant women are vulnerable and are owed the same moral duty to be protected as the unborn, this point is self-contradictory.
+Since pregnant women are demonstrably vulnerable and are owed the same moral duty of protection as the unborn, the argument for prioritizing fetal life over maternal welfare is contradictory.
 
-### 6. Concerns About a "Culture of Death"
+### COMPLETED 5. Concerns About a "Culture of Death"
 
->Some anti-abortion advocates worry that allowing abortion contributes to a "culture of death" where life becomes seen as conditional or disposable. They believe that society should aim to support and protect life at all stages and that abortion undermines this commitment.
+>Some anti-abortion advocates worry that allowing abortions contributes to a "culture of death" where life becomes seen as conditional or disposable. They believe that society should aim to support and protect life at all stages and that abortion undermines this commitment.
 >
 >This argument ties into broader concerns that legal abortion may devalue life by making it acceptable to end a life based on circumstances.
 
@@ -180,33 +157,31 @@ Since pregnant women are vulnerable and are owed the same moral duty to be prote
 **Note**: For the sake of argument, "human life" in this section refers to humans after birth. This is not a universal definition. To learn more about this topic, see [section 1](#1-right-to-life-for-the-unborn).
 {{< /alert >}}
 
-Certain societal structures can lead to the devaluation of human life.
+It is true that societies and their systems can devaluate human lives.
 
-For instance, war persists as an assumed part of modern civilization, often described as a "necessary evil." The tobacco and alcohol industries remain legal and popular despite their known health risks such as the former killing up to half of its users.[^12] Automobiles remain central to many societies despite the 40,000 deaths they caused in the US in 2022 alone.[^7]
+For instance, warfare and its casualties have become accepted parts of modern civilization, despite their devastating human cost. The tobacco and alcohol industries remain legal and popular despite their known health risks such as cigarettes killing up to half of its users.[^12] Automobiles remain central to many societies despite the 40,000 deaths they caused in the US in 2022 alone.[^7]
 
-By contrast, abortion procedures cannot directly devalue the lives of those already born. No legal framework has suggested that permitting abortion diminishes the rights or protections of living persons. Countries with legal abortion maintain robust public health metrics and mortality statistics. These societies continue to invest in life-saving initiatives, from healthcare improvements to accident prevention. The resources devoted to protecting and preserving life have not decreased with abortion legalization.
+By contrast, abortion procedures cannot devalue the lives of those already born. No legal framework has suggested that permitting abortion diminishes the rights or protections of living persons. Countries with legal abortion maintain robust public health metrics and mortality statistics. These societies continue to invest in life-saving initiatives, from healthcare improvements to accident prevention. The resources devoted to protecting and preserving life have not decreased with abortion legalization.
 
 The claim that abortion access diminishes the value of existing human life lacks logical and empirical support - no demonstrable connection exists between the two.
 
 Since measuring abortion's influence on the value of human life proves difficult, claiming a cause-effect relationship without evidence creates a False Cause fallacy. Such reasoning assumes connections without sufficient proof.
 
-#### 6b. Death in Cultural Context
+#### COMPLETED 5b. Death in Cultural Context
 
-Abortions are not treated as celebratory events but rather as medical procedures for those in need.
+Some anti-abortion beliefs argue that celebrating abortions is morally wrong because it involves the death of a potential human life. However, this argument distorts both the nature of abortions and Western cultures' attitudes toward death. Abortions are not treated as celebratory events but rather as medical procedures for those in need, and the acknowledgment of death is deeply woven into Western cultural traditions.
 
-Western cultures already incorporate death into their ceremonies and traditions. Funeral rites hold cultural importance, while birthdays mark our time alive, ceasing only at death.
+Western society has long incorporated death into its ceremonies and traditions. Funeral rites hold profound cultural importance, while birthdays mark our journey through life until death. Death also serves as a central narrative theme in folklore and literature, appearing in the stories of legendary figures such as King Arthur, Darth Vader, Achilles, Oedipus, Socrates, and Alexander Hamilton, only to name a few.
 
-Death is also a crucial storytelling element in folklore. Important deaths from the most significant stories and myths include King Arthur, Darth Vader, Achilles, Oedipus, Socrates, and Alexander Hamilton only to name a few.
+But arguably, the most significant death in Western culture is that of Jesus Christ, whose figure and death are fundamental to Christianity. The crucifixion of Jesus is commemorated every year during  Holy Week, which includes Good Friday and Easter, by both Christians and non-Christians alike.
 
-But arguably, the most significant death in Western culture is that of Jesus Christ, the Savior of Christianity, a religion centered around His death. This event is commemorated by both Christians and non-Christians during Holy Week, which includes Good Friday and Easter.
-
-Outside the realm of fiction, the United States memorializes its citizens' deaths in various ways, particularly through monuments honoring fallen soldiers[^8] (see figure 1).
+Beyond religion, Western societies also memorialize the deaths of its citizens through powerful symbols like monuments honoring fallen soldiers, as exemplified by the Vietnam Veterans Memorial [^8] (see figure 1).
 
 ![View of names etched into the granite face of the Vietnam Veterans Memorial](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vietnam_Veterans_Memorial_reflection_in_low_light.jpg/1280px-Vietnam_Veterans_Memorial_reflection_in_low_light.jpg "View of names etched into the granite face of the Vietnam Veterans Memorial, by National Park Service - https://www.flickr.com/photos/42600860@N02/51971811478/")
 
-Unlike these cultural acknowledgments of death, abortion has no associated holidays or ceremonies. It rarely appears in storytelling, even in contemporary works, and those who undergo the procedure do not typically mark it with celebration.
+In contrast, abortion has no associated holidays or ceremonies, rarely appears in storytelling, even in contemporary works, and those who undergo the procedure do not typically celebrate it.
 
-Given that Western society already encompasses various cultural expressions of death, while abortion remains separate from these traditions, the "culture of death" argument proves unsupported.
+Since Western cultures already celebrate death while excluding abortions, the "culture of death" argument is unsupported.
 
 [^1]: https://www.ansirh.org/research/ongoing/turnaway-study
 [^2]: https://www.who.int/news-room/fact-sheets/detail/abortion
