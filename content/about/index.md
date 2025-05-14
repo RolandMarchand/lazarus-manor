@@ -37,9 +37,6 @@ Male, he/him
 **Personality:**
 [INFJ](https://www.16personalities.com/infj-personality)
 
-**Orientation:**
-[Autoromantic](https://lgbtqia.wiki/wiki/Autoromantic), [Polyamorous](https://lgbtqia.wiki/wiki/Polyamorous)
-
 ## Physical Description
 
 Lazarus Overlook is a leaf-nosed bat whose primary coat shimmers in deep crimson. Rich rosewood colors his thick neck fluff, eyebrows, and extremities, with distinctive spots of the same hue encircling his left eye. His characteristic leaf nose glows a vivid syracuse orange, matching both his striking eyes, mouth, and the interior of his large ears.
