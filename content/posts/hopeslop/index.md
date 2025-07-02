@@ -24,7 +24,7 @@ Hopeslop is a musical genre characterized by lyrics that are meaningless and hop
 - Minimal or no characters
 - No context needed to appreciate the song
 - Lines can be swapped or removed with no impact on the meaning of the song
-- Most common in TV show opening/endings for children and upbeat mer pop
+- Most common in TV show opening/endings for children and upbeat summer pop
 - Almost completely abstract
 - Naive optimistic themes
 
@@ -60,3 +60,5 @@ Another song that sounds like hopeslop but isn't would be "Come Along With Me," 
 ## Conclusion
 
 Hopeslop highlights how not all songs are given the same depth, and that's okay. What songs would you consider hopeslop? Do you find value in abstract and shallow music?
+
+<sup>Thumbnail, <a href="https://commons.wikimedia.org/wiki/File:Finn_Mertens_and_Fionna_Campbell_(cropped).jpg">drawingsbynicole</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</sup>
