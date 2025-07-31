@@ -84,9 +84,9 @@ Though short in stature, Lazarus's sinewy frame exudes resilience. His lean musc
 - [Starman](https://music.youtube.com/watch?v=aBKEt3MhNMM&si=xC6srawYZTkDIEKw), by David Bowie
 - [The Milk Carton](https://music.youtube.com/watch?v=vzlgrmieUAs&si=1nTyRYuTj0Mp-pCz), by Madilyn Mei
 - [Soft Fuzzy Man](https://music.youtube.com/watch?v=pjeF8aiQgLU&si=hG6y6Kx2_MX8yVD3), by Lemon Demon
-- [10 to 1](https://music.youtube.com/watch?v=k-NcAYItKMo&si=OvFZknQ55u73PieZ), by Burn The Ballroom
+- [November](https://music.youtube.com/watch?v=aQ0ZXWx2aBA&si=JI24FT3ZzW0-yCqA), by Sparkbird
 - [Never Love an Anchor](https://music.youtube.com/watch?v=Ld6mj5IsnQQ&si=FcL2gHBUR-jkqmbP), by The Crane Wives
-- [Under My Skin](https://music.youtube.com/watch?v=K_OU-mZXL04&si=56nzIZ5a3N90wlpc), by Jukebox The Ghost
+- [Poppin Skittles](https://music.youtube.com/watch?v=wFlFCdF5LpU&si=4QsUEffl573uXXh-), by Madilyn Mei
 - [Here is my playlist.](https://music.youtube.com/playlist?list=PLkeuL5BvmN-CIk-OFzZ0hFb85-GJ4k1w6&si=wKOGKP7bWDg6DbK6)
 
 ### Favorite Paintings
@@ -100,5 +100,3 @@ Though short in stature, Lazarus's sinewy frame exudes resilience. His lean musc
 ### Favorite Programming Languages
 - C
 - Go
-- Lisp
-- Lua
