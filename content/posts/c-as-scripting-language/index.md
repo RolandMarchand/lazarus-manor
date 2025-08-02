@@ -52,7 +52,7 @@ int main(void) {
 
   if (dlclose(handle) != 0) {
         fprintf(stderr, "dlclose error: %s\n", dlerror());
-        return 3;
+        exit(3);
   }
 }
 ```
