@@ -49,6 +49,11 @@ int main(void) {
   }
 
   script_update();
+
+  if (dlclose(handle) != 0) {
+        fprintf(stderr, "dlclose error: %s\n", dlerror());
+        return 3;
+  }
 }
 ```
 
