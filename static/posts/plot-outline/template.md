@@ -144,6 +144,8 @@ Part of achieving this involves hooking your readers. Here are some of the most 
 
 A story is divided into scenes. There are two kinds of scenes: [conflict scenes](#conflict-scene) and [sequels](#sequel) (not related to the next instalment of a series). Conflict scenes serve to advance the central story question while sequels elaborate on the physical and emotional consequences of a previous conflict scene, and orient the story towards the next conflict scene. More onto sequels later.
 
+How many scene/sequel pairs to use, in what order, and what they contain consist of the story structure. How you setup your conflict scenes relies solely on you, this is where your creativity shines. I recommend you don't stick to a story structure and instead tell your story how you think it should be told. Story structures are descriptive, not prescriptive! As long as your story contains an [opening](#opening-scene), a [central story event](#central-story-event), a [climax](#climax), and a [resolution](#resolution) (in this order), you're good to go!
+
 > **Warning!** Do not confuse scenes in a novel with scenes in film. In motion pictures, scenes consist of single locations or continuous shots/periods of time, while in novels, a scene is a narrative unit consisting of a story goal, a twist, and a resolution.
 
 ### Length of the Scene
