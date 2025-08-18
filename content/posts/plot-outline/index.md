@@ -36,19 +36,16 @@ Feel free to modify and redistribute this template, as it is released into the p
 
 ## How To Use This Template
 
-Each of these sections is intended to be filled out **once** to provide a cohesive structure for your narrative:
+This outline contains two types of sections: **major story events** (filled out once) and **repeating scene sections** for individual conflict and sequel scenes. Each major story event should be paired with its corresponding detailed scene outline.
 
-- [Story plan](#story-plan): this section serves as a condensed version of your story's core elements, summarizing the main plot, protagonist, and antagonist to test your story's fundamentals.
+**Major story events (fill out once):**
+- [Story plan](#story-plan): condenses your story's core elements to test its fundamentals
+- [Opening scene](#opening-scene): establishes key story elements and hooks readers (pair with conflict/sequel scenes)
+- [Central story event](#central-story-event): marks the pivotal middle point (pair with conflict scenes)
+- [Climax](#climax): captures peak tension and final conflict (pair with conflict scenes)
+- [Resolution](#resolution): concludes and resolves conflicts (pair with sequel scenes)
 
-- [Opening scene](#opening-scene): this section serves to establish the most important elements of your story, to hook your readers as quickly as possible, and to introduce your protagonist. It should be used in tandem with a [conflict scene](#conflict-scene), or occasionally a [sequel](#sequel).
-
-- [Central story event](#central-story-event): this section serves highlight the middle of your story and mark it as a pivotal point for your narrative. It should be used in tandem with a [conflict scene](#conflict-scene).
-
-- [Climax](#climax): this section serves to capture the peak of the story's narrative tension and the moment of greatest conflict in a final showdown. It should be used in tandem with a [conflict scene](#conflict-scene).
-
-- [Resolution](#resolution): this section serves to conclude the narrative by resolving conflicts and tying up loose ends. It should be used in tandem with a [sequel](#sequel).
-
-In between your major scenes, couple as many [sequel](#sequel) and [conflict scenes](#conflict-scene) as necessary for your story's development.
+Between major events, add as many [conflict](#conflict-scene) and [sequel](#sequel) scene pairs as your story needs.
 
 ## Story Plan
 
@@ -528,11 +525,13 @@ There should be enough danger, conflict, trouble, and urgency to not let the cha
 
 - Is there desperation in the characters' actions or emotions?
 
+- Does the central story event direct the story towards the climax?
+
+*Checks specific to big scenes:*
+
 - Does the scene build momentum through escalating conflict?
 
 - Is the scene long and without padding?
-
-- Does the central story event direct the story towards the climax?
 
 *Checks specific to scene clusters:*
 
