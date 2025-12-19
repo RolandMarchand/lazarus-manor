@@ -1,6 +1,6 @@
 ---
 title: The True Reason Why the Web Is Toxic
-summary: Anonymity, bots, trolls, algorithms... none of these are the true reason
+summary: Anonymity, bots, trolls, algorithms... none of these are the true reason.
 description: Online commenters start with zero credibility and must prove they're worth listening to within their comment itself, leading to rhetorical escalation, extreme certainty, and provocative language to establish authority. Humor serves as an alternative credibility strategy that's lower-stakes and more universally appealing, which explains why it dominates non-political online spaces where the pressure to signal tribal allegiance is absent.
 date: 2025-09-30
 showTableOfContents: true
