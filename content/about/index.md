@@ -29,7 +29,7 @@ My name is Lazarus Overlook, I am a furry on the internet who likes to talk abou
 Male, he/him
 
 **Age:**
-23
+24
 
 **Species:**
 [Leaf-nosed bat](https://en.wikipedia.org/wiki/Leaf-nosed_bat)
