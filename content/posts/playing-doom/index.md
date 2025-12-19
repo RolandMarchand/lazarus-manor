@@ -45,7 +45,7 @@ You can legally purchase the Doom game files from [Steam](https://store.steampow
 Alternatively, pirating Doom I and II is very easy. While this blog does not promote piracy, the creators of Doom have admitted not being against it. The decision is ultimately yours.
 
 <div class="flex justify-center">
-{{< twitter user="ID_AA_Carmack" id="456974084857802752" >}}
+{{< x user="ID_AA_Carmack" id="456974084857802752" >}}
 </div>
 
 If you are not willing to purchase or pirate the original game, [Freedoom](https://freedoom.github.io/) is a good option. Freedoom is a compatible, free/libre replacement for Doom I and II. Any mod requiring the original game will work with these community-made assets. Although, they look different from the original game.[^2]

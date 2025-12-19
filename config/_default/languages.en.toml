@@ -1,3 +1,4 @@
+disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
@@ -12,7 +13,7 @@ title = "Lazarus Overlook's Manor"
   description = "Personal blog of Lazarus Overlook."
   copyright = "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
 
-[author]
+[params.author]
   name = "Lazarus Overlook"
   image = "img/lazarus.webp"
   headline = "Software Developer, Writer, Ideogrammatologist"

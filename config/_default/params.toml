@@ -9,13 +9,18 @@ colorScheme = "lazarus"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
+enableA11y = false
 enableSearch = true
 enableCodeCopy = true
+enableStructuredBreadcrumbs = false
+
+replyByEmail = false
 
 mainSections = ["posts"]
 robots = "all"
 
 disableImageOptimization = true
+disableImageOptimizationMD = true
 disableTextInHeader = false
 
 defaultBackgroundImage = "img/carpet.svg" # used as default for background images 
@@ -23,6 +28,10 @@ defaultBackgroundImage = "img/carpet.svg" # used as default for background image
 highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
+
+hotlinkFeatureImage = false
+
+fingerprintAlgorithm = "sha512"
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -44,6 +53,7 @@ highlightCurrentMenuArea = true
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
+  disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
   showDate = true
