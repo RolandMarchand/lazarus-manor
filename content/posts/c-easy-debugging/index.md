@@ -32,8 +32,9 @@ see this error, it's debugging time.
 Assuming you don't use an IDE (in that case, use its included debugger), here
 are the tools you'll need:
 
-1) The Gnu Debugger (GDB) 2) A C compiler (e.g. GCC) 3) A text editor
-(e.g. Nano)
+1. The Gnu Debugger (GDB)
+2. A C compiler (e.g. GCC)
+3. A text editor (e.g. Nano)
 
 They're all incredibly common pieces of software, and assuming you're on Linux,
 all of these tools (including your OS) have "GNU" in the name. So it shouldn't
