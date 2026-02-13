@@ -21,7 +21,7 @@ C as a scripting language is a problem because it is compiled. So if I want to c
 
 That's where this neat trick comes in: **runtime symbol linking**! Essentially, I compile the engine with all its global symbols (including functions) exposed, and I compile the script as a library with position-independent code that can be loaded at any memory address without modification. Then, I link that library at runtime against the exposed symbols of the engine, and voilà! This was quite a mouthful, but hopefully the example below will make things clearer.
 
-This is very similar to how the Linux kernel loads kernel modules, which was my main inspirations.
+This is very similar to how the Linux kernel loads kernel modules, which was my main inspiration.
 
 ```c
 // engine.c
@@ -103,7 +103,7 @@ By default, this method exposes *all* of the engine's symbols. I don't think tha
 
 It is worth noting that manually managing memory in a scripting language is tedious and error-prone, but my engine is compiled with the [Boehm Garbage Collector](https://hboehm.info/gc/), so scripts can manage memory automatically if they want, which is encouraged.
 
-Although, if scripts want to use more efficient memory managment methods such as object pools + free lists, or arenas (my engine uses a lot of GNU Obstacks internally), then the scripts are free to do so.
+Although, if scripts want to use more efficient memory management methods such as object pools + free lists, or arenas (my engine uses a lot of GNU Obstacks internally), then the scripts are free to do so.
 
 ## Stability
 
