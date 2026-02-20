@@ -15,7 +15,7 @@ authors:
     - lazarus-overlook
 ---
 
-![](screenshot.webp)
+![Screenshot of the game with the title layed over](screenshot.webp)
 
 This is, hands down, one of the best games you can play right now. There is absolutely nothing that exists which is remotely like Dwarf Fortress. This game will expand what you think a game can be, and even then, I'm underselling it. The sheer unfiltered depth of this game is breathtaking. I am 348 hours deep into it, and it feels like I've just started.
 
@@ -27,9 +27,27 @@ Dwarf Fortress is a story generation game wearing the coat of a colony sim. Your
 
 Here is an example of a real and genuinely gripping story a player experienced long ago, the story of [The Hamlet of Tyranny](https://1d6chan.miraheze.org/wiki/The_Hamlet_of_Tyranny).
 
-> Deep beneath the fortress of the Hamlet of Tyranny lay a sleeping horror: Ashmalice, a legendary fire demon with over 550 kills and the blood of a king on his hands. When careless miners breached his prison, the demon and his horde poured into the mountain fortress like a plague, and the once-prosperous dwarven civilization crumbled in weeks. The blacksmith Stuvok, grief-stricken after his wife Doken fell to Ashmalice, channeled his sorrow into a masterpiece of an artifact sword. He named it "Endless Death of Tears," and though Stuvok himself would fall in the final defense, the legendary captain Daneken took up the blade with nothing left to lose. At the edge of a vast chasm, with demonic flames scorching his flesh and his people's last hope hanging by a thread, Daneken seized his moment and drove the artifact deep into Ashmalice's heart, casting the demon into the darkness below. The fortress fell silent. Nearly all were dead, save for one: Sil the engraver, broken and alone on a distant ledge. And there, bleeding out in the shadows, Sil carved one final image: a demon cowering in fear, surrounded by dwarves who laughed in triumph. A last defiant jest at death itself.
+> Deep beneath the fortress of the Hamlet of Tyranny lay a sleeping horror: Ashmalice, a legendary fire demon with over 550 kills and the blood of a king on his hands. When careless miners breached his prison, the demon and his horde poured into the mountain fortress like a plague, and the once-prosperous dwarven civilization crumbled in weeks.
+>
+> The blacksmith Stuvok, grief-stricken after his wife Doken fell to Ashmalice, channeled his sorrow into a masterpiece of an artifact sword. He named it "Endless Death of Tears," and though Stuvok himself would fall in the final defense, the legendary captain Daneken took up the blade with nothing left to lose. At the edge of a vast chasm, with demonic flames scorching his flesh and his people's last hope hanging by a thread, Daneken seized his moment and drove the artifact deep into Ashmalice's heart, casting the demon into the darkness below. The fortress fell silent.
+>
+> Nearly all were dead, save for one: Sil the engraver, broken and alone on a distant ledge. And there, bleeding out in the shadows, Sil carved one final image: a demon cowering in fear, surrounded by dwarves who laughed in triumph. A last defiant jest at death itself.
 
 You don't see that ever happening in Minecraft, eh?
+
+### Dwarven Humor
+
+The chaos can also create hilarious results. For instance, here's a player who received a butt-naked goblin dancer in his fortress save for a book called "Never Underestimate the Goblin." Props to [InterestedRedditer on Reddit](https://www.reddit.com/r/dwarffortress/comments/ztv9kg/a_goblin_came_to_visit_my_tavern_buttnaked_save/) for this wondrous find.
+
+![Screenshot of the naked goblin dancer](underestimate.webp)
+
+Or user [actuallylikespitbull on Reddit](https://www.reddit.com/r/dwarffortress/comments/1jtjo89/i_was_so_excited_to_finally_have_a_breeding_pair/) who was so excited to finally have a pair of dragons to breed, only to wait 11 years to realize the male was gay.
+
+![screenshot of gay dragons](gay-dragons.webp)
+
+And last but not least, some bug reports are genuinely hilarious, like this one from [SS_beny237 on Reddit](https://www.reddit.com/r/dwarffortress/comments/1oxdxuu/babies_are_born_worshipping_unknown_gods_is_one/).
+
+![caption of bug report "babies are born worshipping unknown gods"](unknown-gods.webp)
 
 ## But Isn't Dwarf Fortress Impenetrable for Newcomers?
 
