@@ -54,6 +54,22 @@ Thirdly, the law also targets app developers. They must "request a signal," mean
 
 Applications developers are just like OS distributors; they can be individuals, centralized or decentralized organizations. All can potentially be fined. But realistically, since the law requirements are so low, since regulators and AGs have finite resources, and since many small and hobby programs are distributed, likely very few if no small developer will be sued. Those sorts of laws are in place to fight against large entities like Apple or Google.
 
+## Update: The Slippery Slope
+
+{{< alert "circle-info" >}}
+This section has been added a few hours after publication.
+{{< /alert >}}
+
+The common held belief is that while this specific law isn't intrusive, the Californian government will expand age verification at the ID-level, creating a severe privacy issue. 
+
+I believe this is a slippery slope fallacy.
+
+While the current situation with this California law is clearly trivial, it is easy to catastrophize and assume government will expand the law. But, at this time, there seems to be no concrete evidence that California is planning on requiring ID or government servers approval. This kind of "are you 18" checkbox has existed for decades and in the vast majority of cases has remained as such, without growing into privacy concerns.
+
+This California law enforces nearly no scaffolding for more serious age verification. If this law was to require data sent to government servers, it could become a privacy nightmare, even if they'd promise to respect privacy, but that's not what's happening.
+
+There are actual privacy issues happening right now, like Palantir, for-profit communication monopolies, Discord age verification, the UK Child Safety Law, etc. We have enough real problems. Let's not waste energy on made up ones like this California law.
+
 ## Conclusion
 
 That seems a lot less scary and absurd, doesn't it? Essentially, this is a nothing burger. Maybe Californians will have to check a box in a year, but that's about it.
