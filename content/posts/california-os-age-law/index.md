@@ -1,5 +1,5 @@
 ---
-title: About That California OS Age Verification Law…
+title: California’s OS Age Verification Law Is a Nothing Burger
 summary: How the world isn't ending and the media is misleading you.
 description: California's AB1043 requires operating systems to collect and share a user's age bracket with apps, and the media is losing its mind over it, but they really shouldn't be. The law is narrowly targeted at OS distributors and app developers, requires no ID, no government data submission, and no actual age verification, and could be implemented on Linux with nothing more than an environment variable. This is a nothing burger dressed up as surveillance-state overreach, and you've been misled.
 date: 2026-03-02
