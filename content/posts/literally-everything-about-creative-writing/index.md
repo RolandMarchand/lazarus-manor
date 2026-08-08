@@ -758,3 +758,12 @@ Here is what you first need to figure out when making a character:
 - Use an accessible font that's easy to read for hours (not too thin, not too eccentric/irritating. Be mindful of dyslexic readers, ask dyslexic friends to read your story in different fonts)
 - Popular fonts (for a reason): EB Garamond/Crimson Text (classic, literary, great everywhere), Libre Baskerville (refined, elegant, retro), IBM Plex Serif (straight, structured, great for sci-fi), Noto Serif (unopinionated, basic)
 - Be careful with Times New Roman (Word's default), it was designed to cram text into newspaper columns, not for reading 300+ pages straight
+
+## Extra Resources
+
+- The Fantasy Fiction Formula, by Deborah Chester
+- [Lazarus' Story Outline Template](https://lazarusoverlook.com/posts/plot-outline)
+- Poetics, by Aristotle
+- The Hero of a Thousand Faces, by Joseph Campbel
+- Manga in Theory and Practice, by Hirohiko Araki
+- [Writing class lectures](https://www.youtube.com/watch?v=MEUh_y1IFZY&list=PLSH_xM-KC3ZvzkfVo_Dls0B5GiE2oMcLY), by Brandon Sanderson
